@@ -45,3 +45,12 @@ exports['context send for loop'] = function (test) {
 
     processor.runSync(1);
 };
+
+exports['define using the arguments'] = function (test) {
+    function incmsg(message, context, next) { message++; next(null, message); }
+    function done(message) { test.equal(3, message); test.done(); }
+
+    var processor = mproc.createProcessor(incmsg, incmsg, done);
+
+    processor.runSync(1);
+};

@@ -90,6 +90,7 @@ npm test
 ## Versions
 
 - 0.0.1: Published, 2013-01-19, with `.createProcessor`, `processor.run`, `processor.runSync`, `context.send`, `context.post`.
+- 0.0.2: Under development, in master.
 
 ## Contribution
 
