@@ -46,11 +46,37 @@ exports['context send for loop'] = function (test) {
     processor.runSync(1);
 };
 
-exports['define using the arguments'] = function (test) {
+exports['createProcessor with arguments'] = function (test) {
     function incmsg(message, context, next) { message++; next(null, message); }
     function done(message) { test.equal(3, message); test.done(); }
 
     var processor = mproc.createProcessor(incmsg, incmsg, done);
+
+    processor.runSync(1);
+};
+
+exports['name'] = function (test) {
+    function send(message, context, next) { context.send(message, 'done'); next(null, message); }
+    function incmsg(message, context, next) { message++; next(null, message); }
+    function done(message) { test.equal(1, message); test.done(); }
+
+    var processor = mproc.createProcessor();
+
+    processor.use(send)
+        .use(incmsg)
+        .use(incmsg)
+        .name("done")
+        .use(done);
+
+    processor.runSync(1);
+};
+
+exports['name in createProcessor arguments'] = function (test) {
+    function send(message, context, next) { context.send(message, 'done'); next(null, message); }
+    function incmsg(message, context, next) { message++; next(null, message); }
+    function done(message) { test.equal(1, message); test.done(); }
+
+    var processor = mproc.createProcessor(send, incmsg, incmsg, "done", done);
 
     processor.runSync(1);
 };
