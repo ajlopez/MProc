@@ -1,7 +1,7 @@
 { "name": "mproc"
 , "description": "Message processing middleware, for Node.js/JavaScript"
 , "keywords": [ "nodejs", "middleware", "message", "javascript" ]
-, "version": "0.0.1alpha"
+, "version": "0.0.1"
 , "author": "Angel 'Java' Lopez <webmaster@ajlopez.com> (http://www.ajlopez.com)"
 , "repository": { "type": "git", "url": "git://github.com/ajlopez/MProc.git" }
 , "main": "./lib/mproc.js"
