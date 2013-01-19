@@ -1,0 +1,1117 @@
+Downloading: http://ajlopez.wordpress.com
+Download complete: http://ajlopez.wordpress.com
+Page
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<!--
+	generated 84 seconds ago
+	generated in 0.419 seconds
+	served from batcache in 0.003 seconds
+	expires in 216 seconds
+-->
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title> Angel \&#8221;Java\&#8221; Lopez on Blog</title>
+
+	<style type="text/css" media="screen">
+		@import url( http://s0.wp.com/wp-content/themes/pub/blue-green/style.css?m=1355519460g );
+	</style>
+
+	<link rel="pingback" href="http://ajlopez.wordpress.com/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="Angel \&quot;Java\&quot; Lopez on Blog &raquo; Feed" href="http://ajlopez.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Angel \&quot;Java\&quot; Lopez on Blog &raquo; Comments Feed" href="http://ajlopez.wordpress.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-0' href='http://s1.wp.com/_static/??/wp-content/blog-plugins/loggedout-follow/widget.css,/wp-content/mu-plugins/post-flair/style.css,/wp-content/themes/h4/global.css?m=1358384336j' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-0' href='http://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1335386953g' type='text/css' media='print' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, please try again with a valid email address."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s0.wp.com/_static/??/wp-includes/js/jquery/jquery.js,/wp-content/blog-plugins/loggedout-follow/widget.js?m=1354137473j'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://ajlopez.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://ajlopez.wordpress.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://wp.me/1Aoq' />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="blog" />
+<meta property="og:title" content="Angel \&quot;Java\&quot; Lopez on Blog" />
+<meta property="og:description" content="Software Development, in the Third Millenium" />
+<meta property="og:url" content="http://ajlopez.wordpress.com/" />
+<meta property="og:site_name" content="Angel \&quot;Java\&quot; Lopez on Blog" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta property="fb:app_id" content="249643311490" />
+<link rel="shortcut icon" type="image/x-icon" href="http://s2.wp.com/i/favicon.ico?m=1311975824g" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="http://s2.wp.com/i/favicon.ico?m=1311975824g" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="http://s0.wp.com/i/webclip.png?m=1355642671g" />
+<link rel='openid.server' href='http://ajlopez.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://ajlopez.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://ajlopez.wordpress.com/osd.xml" title="Angel \&#34;Java\&#34; Lopez on Blog" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com" />
+		<style>
+		/* <![CDATA[ */
+		/* Block: reblog */
+		
+		.reblog-from img                   { margin: 0 10px 0 0; vertical-align: middle; padding: 0; border: 0; }
+		.reblogger-note img.avatar         { float: left; padding: 0; border: 0; }
+		.reblogger-note-content            { margin: 0 0 20px; }
+		.reblog-post .wpcom-enhanced-excerpt-content { border-left: 3px solid #eee; padding-left: 15px; }
+		.reblog-post ul.thumb-list         { display: block; list-style: none; margin: 2px 0; padding: 0; clear: both; }
+		.reblog-post ul.thumb-list li      { display: inline; margin: 0; padding: 0 1px; border: 0; }
+		.reblog-post ul.thumb-list li a    { margin: 0; padding: 0; border: 0; }
+		.reblog-post ul.thumb-list li img  { margin: 0; padding: 0; border: 0; }
+		
+		.reblog-post .wpcom-enhanced-excerpt { clear: both; }
+		
+		.reblog-post .wpcom-enhanced-excerpt address,
+		.reblog-post .wpcom-enhanced-excerpt li,
+		.reblog-post .wpcom-enhanced-excerpt h1,
+		.reblog-post .wpcom-enhanced-excerpt h2,
+		.reblog-post .wpcom-enhanced-excerpt h3,
+		.reblog-post .wpcom-enhanced-excerpt h4,
+		.reblog-post .wpcom-enhanced-excerpt h5,
+		.reblog-post .wpcom-enhanced-excerpt h6,
+		.reblog-post .wpcom-enhanced-excerpt p { font-size: 100% !important; }
+		
+		.reblog-post .wpcom-enhanced-excerpt blockquote,
+		.reblog-post .wpcom-enhanced-excerpt pre,
+		.reblog-post .wpcom-enhanced-excerpt code,
+		.reblog-post .wpcom-enhanced-excerpt q { font-size: 98% !important; }
+		
+
+		/* ]]> */		
+		</style>
+		<meta name="application-name" content="Angel \&quot;Java\&quot; Lopez on Blog" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="Software Development, in the Third Millenium" /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://ajlopez.wordpress.com/feed/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="title" content="Angel \&quot;Java\&quot; Lopez on Blog on WordPress.com" />
+<meta name="description" content="Software Development, in the Third Millenium" />
+
+<script type='text/javascript'>/*<![CDATA[*/if(typeof(addLoadEvent)!='undefined'){addLoadEvent(function(){if(top==self){i=document.createElement('img');i.src='http://botd2.wordpress.com/botd.gif?blog=378226&post=0&lang=en&date=1358610456&ip=107.20.103.16&url=http://ajlopez.wordpress.com/';i.style.width='0px';i.style.height='0px';i.style.overflow='hidden';document.body.appendChild(i);}});}/*]]>*/</script>
+</head>
+
+<body class="home blog highlander-enabled highlander-light">
+<div id="rap">
+<h1 id="header"><a href="http://ajlopez.wordpress.com/">Angel \&#8221;Java\&#8221; Lopez on Blog</a></h1>
+
+<div id="content">
+<!-- end header -->
+
+
+<h2>January 19, 2013</h2>
+<div class="post-997 post type-post status-publish format-standard hentry category-cobol category-cobolscript category-javascript category-nodejs category-open-source-projects" id="post-997">
+	 <h3 class="storytitle">
+			<a href="http://ajlopez.wordpress.com/2013/01/19/cobolscript-4-web-pages-with-templates/" title="Permalink to CobolScript (4) Web Pages with&nbsp;Templates" rel="bookmark">CobolScript (4) Web Pages with&nbsp;Templates</a>
+		 </h3>
+	<div class="meta">Filed under:  <a href="http://ajlopez.wordpress.com/category/cobol/" title="View all posts in COBOL" rel="category tag">COBOL</a>, <a href="http://ajlopez.wordpress.com/category/cobolscript/" title="View all posts in CobolScript" rel="category tag">CobolScript</a>, <a href="http://ajlopez.wordpress.com/category/javascript/" title="View all posts in JavaScript" rel="category tag">JavaScript</a>, <a href="http://ajlopez.wordpress.com/category/nodejs/" title="View all posts in NodeJs" rel="category tag">NodeJs</a>, <a href="http://ajlopez.wordpress.com/category/open-source-projects/" title="View all posts in Open Source Projects" rel="category tag">Open Source Projects</a> &#8212;  ajlopez @ 3:47 pm </div>
+
+	<div class="storycontent">
+		<p><a href="http://ajlopez.wordpress.com/2012/12/29/cobolscript-3-templates/">Previous Post</a></p>
+<p>In the previous post I presented CobolScript generating output using templates. It can be used to generate web page output, too. The sample is at:</p>
+<p><a title="https://github.com/ajlopez/CobolScript/tree/master/samples/templateweb" href="https://github.com/ajlopez/CobolScript/tree/master/samples/templateweb">https://github.com/ajlopez/CobolScript/tree/master/samples/templateweb</a></p>
+<p>The launch program in JavaScript is simple:</p>
+</p>
+<pre style="background-color:black;color:white;font-size:12pt;">
+<span style="color:orange;">var</span> cobs = require<span style="color:cyan;">(</span><span style="color:lightgreen;">'../..'</span><span style="color:cyan;">),</span>
+    http = require<span style="color:cyan;">(</span><span style="color:lightgreen;">'http'</span><span style="color:cyan;">),</span>
+    fs = require<span style="color:cyan;">(</span><span style="color:lightgreen;">'fs'</span><span style="color:cyan;">);</span>
+
+<span style="color:orange;">var</span> program = cobs.compileTemplateFile<span style="color:cyan;">(</span><span style="color:lightgreen;">'./factorial.cobp'</span><span style="color:cyan;">);</span>
+
+http.createServer<span style="color:cyan;">(</span><span style="color:orange;">function</span><span style="color:cyan;">(</span>req<span style="color:cyan;">,</span> res<span style="color:cyan;">)</span> <span style="color:cyan;">{</span>
+    program.run<span style="color:cyan;">(</span>cobs.getRuntime<span style="color:cyan;">({</span> request: req<span style="color:cyan;">,</span> response: res <span style="color:cyan;">}));</span>
+<span style="color:cyan;">})</span>.listen<span style="color:cyan;">(</span>8000<span style="color:cyan;">);</span>
+
+console.log<span style="color:cyan;">(</span><span style="color:lightgreen;">'Server started, listening at port 8000'</span><span style="color:cyan;">);</span></pre>
+</p>
+<p>The key part is the call to compile the file template. It produce a compiled JavaScript function to be invoked. The call of program.run executes the template, with a giving runtime context. The runtime context is build giving the request and response objects of the current incoming request. That runtime derives all the output of the CobolScript program to the response output. So, the template doesn’t know about web request and response. You can see the runtime object as a service provider to the compiled CobolScript program. Its properties can be accessed if you define a LINKAGE SECTION as in classic COBOL. But this feature was not used in this simple sample.</p>
+<p>The template file</p>
+</p>
+<pre style="background-color:black;color:white;font-size:12pt;"><span style="color:cyan;">&lt;</span>h1<span style="color:cyan;">&gt;</span>Factorial<span style="color:cyan;">&lt;</span>/h1<span style="color:cyan;">&gt;</span>
+<span style="color:cyan;">&lt;</span>p<span style="color:cyan;">&gt;</span>Page generated <span style="color:orange;">by</span> CobolScript<span style="color:cyan;">,</span> <span style="color:orange;">using</span> templates<span style="color:cyan;">&lt;</span>/p<span style="color:cyan;">&gt;</span>
+<span style="color:cyan;">&lt;</span>table<span style="color:cyan;">&gt;</span>
+<span style="color:cyan;">&lt;</span>tr<span style="color:cyan;">&gt;&lt;</span>th align=<span style="color:cyan;">'</span>right<span style="color:cyan;">'&gt;</span>n<span style="color:cyan;">&lt;</span>/th<span style="color:cyan;">&gt;&lt;</span>th align=<span style="color:cyan;">'</span>right<span style="color:cyan;">'&gt;</span>n<span style="color:cyan;">!
+&lt;</span>/th<span style="color:cyan;">&gt;
+&lt;</span>/tr<span style="color:cyan;">&gt;</span>
+<span style="color:cyan;">&lt;#</span>
+<span style="color:orange;">local</span> n.
+<span style="color:orange;">perform</span> show-factorial <span style="color:orange;">using</span> n <span style="color:orange;">varying</span> n <span style="color:orange;">from</span> 1 <span style="color:orange;">to</span> 10.
+<span style="color:cyan;">#&gt;</span>
+<span style="color:cyan;">&lt;</span>/table<span style="color:cyan;">&gt;</span>
+<span style="color:cyan;">&lt;#</span>
+.
+stop run.
+
+show-factorial <span style="color:orange;">section</span> <span style="color:orange;">using</span> n.
+<span style="color:orange;">local</span> result.
+<span style="color:orange;">perform</span> factorial <span style="color:orange;">using</span> n <span style="color:orange;">giving</span> result.
+<span style="color:cyan;">#&gt;</span>
+<span style="color:cyan;">&lt;</span>tr<span style="color:cyan;">&gt;
+&lt;</span>td align=<span style="color:cyan;">'</span>right<span style="color:cyan;">'&gt;${</span>n<span style="color:cyan;">}&lt;</span>/td<span style="color:cyan;">&gt;&lt;</span>td align=<span style="color:cyan;">'</span>right<span style="color:cyan;">'&gt;${</span>result<span style="color:cyan;">}
+&lt;</span>/td<span style="color:cyan;">&gt;
+&lt;</span>/tr<span style="color:cyan;">&gt;</span>
+<span style="color:cyan;">&lt;#</span>
+.
+
+factorial <span style="color:orange;">section</span> <span style="color:orange;">using</span> n.
+<span style="color:orange;">local</span> m.
+<span style="color:orange;">if</span> n = 1 <span style="color:orange;">then</span> <span style="color:orange;">return</span> n.
+<span style="color:orange;">subtract</span> 1 <span style="color:orange;">from</span> n <span style="color:orange;">giving</span> m.
+<span style="color:orange;">perform</span> factorial <span style="color:orange;">using</span> m <span style="color:orange;">giving</span> m.
+multiply n <span style="color:orange;">by</span> m.
+<span style="color:orange;">return</span> m.
+<span style="color:cyan;">#&gt;</span></pre>
+</p>
+<p>Launch the server with</p>
+<p>node server</p>
+<p>Navigate to localhost:8000, the result:</p>
+<p><img src="https://raw.github.com/ajlopez/CobolScript/master/images/templateweb.png" /> </p>
+<p>Next post: a dynamic web site accessing MySQL database, using CobolScript.</p>
+<p>Keep tuned!</p>
+<p>Angel “Java” Lopez<br />
+  <br /><a href="http://www.ajlopez.com">http://www.ajlopez.com</a> </p>
+<p><a href="http://twitter.com/ajlopez">http://twitter.com/ajlopez</a></p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled"></div>	</div>
+
+	<div class="feedback">
+                        <a href="http://ajlopez.wordpress.com/2013/01/19/cobolscript-4-web-pages-with-templates/#comments" title="Comment on CobolScript (4) Web Pages with&nbsp;Templates">Comments (1)</a>	</div>
+
+</div>
+
+
+
+<h2>January 18, 2013</h2>
+<div class="post-995 post type-post status-publish format-standard hentry category-links category-programming-languages category-smalltalk" id="post-995">
+	 <h3 class="storytitle">
+			<a href="http://ajlopez.wordpress.com/2013/01/18/smalltalk-links-news-and-resources-11/" title="Permalink to Smalltalk: Links, News And Resources&nbsp;(11)" rel="bookmark">Smalltalk: Links, News And Resources&nbsp;(11)</a>
+		 </h3>
+	<div class="meta">Filed under:  <a href="http://ajlopez.wordpress.com/category/links/" title="View all posts in Links" rel="category tag">Links</a>, <a href="http://ajlopez.wordpress.com/category/programming-languages/" title="View all posts in Programming Languages" rel="category tag">Programming Languages</a>, <a href="http://ajlopez.wordpress.com/category/smalltalk/" title="View all posts in Smalltalk" rel="category tag">Smalltalk</a> &#8212;  ajlopez @ 4:46 pm </div>
+
+	<div class="storycontent">
+		<p><a href="http://ajlopez.wordpress.com/2013/01/11/smalltalk-links-news-and-resources-10/">Previous Post</a></p>
+<p>Do Smalltalk have shared variables&#8230;?   <br /><a href="http://objectmix.com/smalltalk/311676-do-smalltalk-have-shared-variables.html">http://objectmix.com/smalltalk/311676-do-smalltalk-have-shared-variables.html</a>    <br />Smallissimo: Lazy initialization of Shared Variable Bindings    <br /><a href="http://smallissimo.blogspot.com.ar/2011/08/lazy-initialization-of-shared-variable.html">http://smallissimo.blogspot.com.ar/2011/08/lazy-initialization-of-shared-variable.html</a></p>
+<p>Class Variables   <br /><a href="http://esug.org/data/Articles/Columns/EwingPapers/class_variables.pdf">http://esug.org/data/Articles/Columns/EwingPapers/class_variables.pdf</a>    <br />How to Use Class Variables and Class Instance Variables    <br /><a href="http://esug.org/data/Articles/Columns/EwingPapers/cvars&amp;cinst_vars.pdf">http://esug.org/data/Articles/Columns/EwingPapers/cvars&amp;cinst_vars.pdf</a></p>
+<p>Leftshore   <br /><a href="http://leftshore.wordpress.com/">http://leftshore.wordpress.com/</a>    <br />By Boris Popov </p>
+<p>Smalltalk at 30: STIC 2013   <br /><a href="http://www.jarober.com/blog/blogView?showComments=true&amp;title=Smalltalk+at+30%3A+STIC+2013&amp;entry=3531653797">http://www.jarober.com/blog/blogView?showComments=true&amp;title=Smalltalk+at+30%3A+STIC+2013&amp;entry=3531653797</a></p>
+<p>InfoWorld &#8211; Google Books   <br /><a href="http://books.google.com.ar/books?id=4S8EAAAAMBAJ&amp;pg=PA1&amp;lpg=PA1&amp;dq=smalltalk-8+0+balloon&amp;source=bl&amp;ots=y4eGGi6_ml&amp;sig=DVucVnBA4cJDkvXs4kObvRE3LV8&amp;hl=en&amp;ei=4G9gT9rOMcbOiAKBnI2_BA&amp;redir_esc=y#v=onepage&amp;q&amp;f=false">http://books.google.com.ar/books?id=4S8EAAAAMBAJ&amp;pg=PA1&amp;lpg=PA1&amp;dq=smalltalk-8+0+balloon&amp;source=bl&amp;ots=y4eGGi6_ml&amp;sig=DVucVnBA4cJDkvXs4kObvRE3LV8&amp;hl=en&amp;ei=4G9gT9rOMcbOiAKBnI2_BA&amp;redir_esc=y#v=onepage&amp;q&amp;f=false</a></p>
+<p>SmalltalkHub   <br /><a href="http://smalltalkhub.com/">http://smalltalkhub.com/</a></p>
+<p>garduino (German Arduino)   <br /><a href="https://github.com/garduino">https://github.com/garduino</a>    <br /> Cuis work by @garduino </p>
+<p>Ten is a good number: isKindOf: considered harmful   <br /><a href="http://blogten.blogspot.com.ar/2007/09/iskindof-considered-harmful.html">http://blogten.blogspot.com.ar/2007/09/iskindof-considered-harmful.html</a></p>
+<p>Traits: Composable Units of Behaviour   <br /><a href="http://scg.unibe.ch/archive/papers/Scha03aTraits.pdf">http://scg.unibe.ch/archive/papers/Scha03aTraits.pdf</a>    <br />smalltalk &#8211; How to unload Traits from Pharo &#8211; Stack Overflow    <br /><a href="http://stackoverflow.com/questions/6879432/how-to-unload-traits-from-pharo">http://stackoverflow.com/questions/6879432/how-to-unload-traits-from-pharo</a></p>
+<p>smalltalk &#8211; What is the difference between a Squeak/Pharo Trait and a Newspeak Mixin? &#8211; Stack Overflow   <br /><a href="http://stackoverflow.com/questions/2329724/what-is-the-difference-between-a-squeak-pharo-trait-and-a-newspeak-mixin">http://stackoverflow.com/questions/2329724/what-is-the-difference-between-a-squeak-pharo-trait-and-a-newspeak-mixin</a></p>
+<p>Code Completion and Syntax Highlighting &#8211; YouTube   <br /><a href="http://www.youtube.com/watch?v=QKDVOPelqVc&amp;feature=youtu.be&amp;a">http://www.youtube.com/watch?v=QKDVOPelqVc&amp;feature=youtu.be&amp;a</a>    <br />Cross Platform &#8211; YouTube    <br /><a href="http://www.youtube.com/watch?v=5a-n3UjYQHM&amp;feature=youtu.be&amp;a">http://www.youtube.com/watch?v=5a-n3UjYQHM&amp;feature=youtu.be&amp;a</a></p>
+<p>Redline Smalltalk V1.0 | Indiegogo   <br /><a href="http://www.indiegogo.com/smalltalk?c=home">http://www.indiegogo.com/smalltalk?c=home</a></p>
+<p>Smalltalks 2012 &#8211; 6th Argentine conference   <br /><a href="http://www.fast.org.ar/smalltalks2012/talks/Objects%20in%20the%20Mist%3A%20The%20Design%20of%20a%20Non-Traditional%20Smalltalk?_s=4NRkHHU4m6wbF97d&amp;_k=z08U0UJhHx6E-2j9">http://www.fast.org.ar/smalltalks2012/talks/Objects%20in%20the%20Mist%3A%20The%20Design%20of%20a%20Non-Traditional%20Smalltalk?_s=4NRkHHU4m6wbF97d&amp;_k=z08U0UJhHx6E-2j9</a>    <br /> Mist Project </p>
+<p>Smalltalks 2012 &#8211; 6th Argentine conference   <br /><a href="http://www.fast.org.ar/smalltalks2012/talks">http://www.fast.org.ar/smalltalks2012/talks</a></p>
+<p>Issue 2581 &#8211; pharo &#8211; COG &#8211; Float access methods &#8211; A free open-source Smalltalk-inspired language and environment &#8211; Google Project Hosting   <br /><a href="https://code.google.com/p/pharo/issues/detail?id=2581">https://code.google.com/p/pharo/issues/detail?id=2581</a></p>
+<p>Squeak &#8211; Dev &#8211; detecting if method has an prim error code   <br /><a href="http://forum.world.st/detecting-if-method-has-an-prim-error-code-td4377050.html">http://forum.world.st/detecting-if-method-has-an-prim-error-code-td4377050.html</a></p>
+<p>My Links   <br /><a href="http://delicious.com/ajlopez/smalltalk">http://delicious.com/ajlopez/smalltalk</a></p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled"></div>	</div>
+
+	<div class="feedback">
+                        <a href="http://ajlopez.wordpress.com/2013/01/18/smalltalk-links-news-and-resources-11/#comments" title="Comment on Smalltalk: Links, News And Resources&nbsp;(11)">Comments (1)</a>	</div>
+
+</div>
+
+
+
+<h2>January 16, 2013</h2>
+<div class="post-993 post type-post status-publish format-standard hentry category-javascript category-nodejs category-open-source-projects" id="post-993">
+	 <h3 class="storytitle">
+			<a href="http://ajlopez.wordpress.com/2013/01/16/some-projects-with-in-memory-model/" title="Permalink to Some projects with in-memory&nbsp;model" rel="bookmark">Some projects with in-memory&nbsp;model</a>
+		 </h3>
+	<div class="meta">Filed under:  <a href="http://ajlopez.wordpress.com/category/javascript/" title="View all posts in JavaScript" rel="category tag">JavaScript</a>, <a href="http://ajlopez.wordpress.com/category/nodejs/" title="View all posts in NodeJs" rel="category tag">NodeJs</a>, <a href="http://ajlopez.wordpress.com/category/open-source-projects/" title="View all posts in Open Source Projects" rel="category tag">Open Source Projects</a> &#8212;  ajlopez @ 5:05 pm </div>
+
+	<div class="storycontent">
+		<p>I’m a big proponent of having models (domain models) residing in memory. Of course, in the appropriate context. There are many problems that could have a better solution if we forgot the “use the database, Luke” approach. One notable solution/project is <a href="http://redis.io/">Redis</a>, that using a single thread implements a complete and powerful key-value store in memory, with options for persistence and clustering (redis cluster still under development).</p>
+<p>I’m playing implementing personal projects using an in-memory model. There are:</p>
+<p><a href="https://github.com/ajlopez/SimpleMemolap">SimpleMemolap</a>: Multidimensional OLAP-like model, in JavaScript/Node.js with a web sample.</p>
+<p><a href="https://github.com/ajlopez/SimpleMemolap">Memolap</a>: Multidimensional OLAP-like model, in C#. Web sample in progress.</p>
+<p><a href="https://github.com/ajlopez/SimplePermissions">SimplePermissions</a>: Subjects, Roles, Permissions, Contexts, all in memory.</p>
+<p><a href="https://github.com/ajlopez/AjKeyvs">AjKeyvs</a>: Redis-like in-memory key-value store, in C#. I should add the client protocol. I should review the internal algorithms, but all was coded using TDD, ready for refactors.</p>
+<p><a href="https://github.com/ajlopez/SimpleStore">SimpleStore</a>: Simple Key Value Store in memory, a la Redis, JavaScript/Node.js. In process or exposed to remote clients using additional modules. Work in Progress.</p>
+<p><a href="https://github.com/ajlopez/SimpleQueue">SimpleQueue</a>: in-memory queue implementation, JavaScript/Node.js. It could be used in process or acceded via exposing the methods to remote calls.</p>
+<p><a href="https://github.com/ajlopez/SimpleTags">SimpleTags</a>: having items with arbitrary data, tagged with strings or key-value objects.</p>
+<p>Maybe I could add <a href="https://github.com/ajlopez/SimpleRules">SimpleRules</a>: rule engine where the facts reside in-memory (many rule engines use directly the memory to represent the world state).</p>
+<p>And even I could mention: <a href="https://github.com/ajlopez/SimpleBoggle">SimpleBoggle</a>, where the list of words to resolve a <a href="http://en.wikipedia.org/wiki/Boggle">Boggle game</a> it’s loaded in memory <img src='http://s1.wp.com/wp-includes/images/smilies/icon_wink.gif?m=1129645325g' alt=';-)' class='wp-smiley' /> </p>
+<p>To be started:</p>
+<p><a href="https://github.com/ajlopez/SimpleDatabase">SimpleDatabase</a>: in-memory database, with SQL-like query language, JavaScript/Node.js</p>
+<p>Most of these projects could be extended to have pluggable persistence. But now I’m interested in having something that works to play with. I’m having fun implementing internal algorithms, trees, search, inverted indexes, etc. And practicing TDD every day.</p>
+<p>Keep tuned!</p>
+<p>Angel “Java” Lopez   <br /><a href="http://www.ajlopez.com">http://www.ajlopez.com</a>    <br /><a href="http://twitter.com/ajlopez">http://twitter.com/ajlopez</a></p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled"></div>	</div>
+
+	<div class="feedback">
+                        <a href="http://ajlopez.wordpress.com/2013/01/16/some-projects-with-in-memory-model/#respond" title="Comment on Some projects with in-memory&nbsp;model">Leave a Comment</a>	</div>
+
+</div>
+
+
+
+<h2>January 12, 2013</h2>
+<div class="post-992 post type-post status-publish format-standard hentry category-cobol category-cobolscript category-code-kata category-compilers category-javascript category-mapreduce category-nodejs category-open-source-projects category-programming-languages category-test-driven-development" id="post-992">
+	 <h3 class="storytitle">
+			<a href="http://ajlopez.wordpress.com/2013/01/12/code-katas-in-javascriptnode-js-using-tdd/" title="Permalink to Code Katas in JavaScript/Node.js using&nbsp;TDD" rel="bookmark">Code Katas in JavaScript/Node.js using&nbsp;TDD</a>
+		 </h3>
+	<div class="meta">Filed under:  <a href="http://ajlopez.wordpress.com/category/cobol/" title="View all posts in COBOL" rel="category tag">COBOL</a>, <a href="http://ajlopez.wordpress.com/category/cobolscript/" title="View all posts in CobolScript" rel="category tag">CobolScript</a>, <a href="http://ajlopez.wordpress.com/category/code-kata/" title="View all posts in Code Kata" rel="category tag">Code Kata</a>, <a href="http://ajlopez.wordpress.com/category/compilers/" title="View all posts in Compilers" rel="category tag">Compilers</a>, <a href="http://ajlopez.wordpress.com/category/javascript/" title="View all posts in JavaScript" rel="category tag">JavaScript</a>, <a href="http://ajlopez.wordpress.com/category/mapreduce/" title="View all posts in MapReduce" rel="category tag">MapReduce</a>, <a href="http://ajlopez.wordpress.com/category/nodejs/" title="View all posts in NodeJs" rel="category tag">NodeJs</a>, <a href="http://ajlopez.wordpress.com/category/open-source-projects/" title="View all posts in Open Source Projects" rel="category tag">Open Source Projects</a>, <a href="http://ajlopez.wordpress.com/category/programming-languages/" title="View all posts in Programming Languages" rel="category tag">Programming Languages</a>, <a href="http://ajlopez.wordpress.com/category/test-driven-development/" title="View all posts in Test-Driven Development" rel="category tag">Test-Driven Development</a> &#8212;  ajlopez @ 6:05 pm </div>
+
+	<div class="storycontent">
+		<p>These past weeks, I was working in JavaScript/Node.js modules, using TDD at each step. Practice, practice, practice, the journey to mastery.</p>
+<p>You can see my progress, reviewing the commits I did at each new test. This is a summary of that work:</p>
+<p><a href="https://github.com/ajlopez/CobolScript">CobolScript</a>: <a href="http://ajlopez.wordpress.com/category/cobolscript/">See my posts</a>, an implementation of COBOL as a compiler to JavaScript, having console program samples, dynamic web pages and access to Node.js modules. See <a href="https://github.com/ajlopez/SimpleWeb/tree/master/samples/customers">web sample</a>, using MySQL, and SimpleWeb.</p>
+<p><img src="http://ajlopez.com/images/articles2/cobs09.png" /> </p>
+<p><a href="https://github.com/ajlopez/SimplePipes">SimplePipes</a>: A way to define message-passing using ‘pipes’ to connect different defined nodes/functions. I want to extend it to have distributed process.</p>
+<p><a href="https://github.com/ajlopez/SimpleBoggle">SimpleBoggle</a>: Boggle solver, it is better than me! See console sample.</p>
+<p><a href="https://github.com/ajlopez/SimpleMemolap">SimpleMemolap</a>: Multidimensional OLAP-like processing, with in-memory model, and <a href="https://github.com/ajlopez/SimpleWeb">SimpleWeb</a> site <a href="https://github.com/ajlopez/SimpleWeb/tree/master/samples/customers">see sample</a>:</p>
+<p><img src="http://ajlopez.com/images/articles2/smemo02.png" /> </p>
+<p><a href="https://github.com/ajlopez/SimpleChess">SimpleChess</a>: Work in progress, define a board using <a href="https://github.com/ajlopez/SimpleBoard">SimpleBoard</a>, and make moves. I’m working on <a href="https://github.com/ajlopez/SimpleGo">SimpleGo</a>, too, to have a board, game, and evaluators.</p>
+<p><a href="https://github.com/ajlopez/SimpleRules">SimpleRules</a>: forward-chaing rule engine. I should add rule compilation to JavaScript. The engine works a la Rete-2, detecting the changes in the current state, and triggering actions.</p>
+<p><a href="http://api.viglink.com/api/click?format=go&amp;key=cdee124b11d6baacda6c3e29b12e23dc&amp;loc=http%3A%2F%2Fajlopez.wordpress.com%2F&amp;v=1&amp;libid=1358011009888&amp;out=https%3A%2F%2Fgithub.com%2Fajlopez%2FSimpleScript&amp;title=Angel%20%5C%E2%80%9DJava%5C%E2%80%9D%20Lopez%20on%20Blog&amp;txt=repo&amp;jsonp=vglnk_jsonp_13580115836212">SimpleScript</a>: see post, my simple language, compiled to JavaScript. <a href="http://ajlopez.wordpress.com/category/simplescript/">See posts</a>. WIP.</p>
+<p><a href="https://github.com/ajlopez/Py2Script">Py2Script</a>: Python language compiler to JavaScript, first step. WIP.</p>
+<p><a href="https://github.com/ajlopez/SimpleWeb">SimpleWeb</a>: web middleware, a la Connect, with web sample.</p>
+<p><img src="http://ajlopez.com/images/articles2/simpleweb02.png" /> </p>
+<p><a href="https://github.com/ajlopez/BasicScript">BasicScript</a>: My first steps to compile Basic to JavaScript. I want to use it to program and compile a game.</p>
+<p><a href="https://github.com/ajlopez/SimplePermissions">SimplePermissions</a>: Today code kata. It implements subjects, roles, and permissions, granted by context.</p>
+<p><a href="https://github.com/ajlopez/SimpleFunc">SimpleFunc</a>: Serialization of functions.</p>
+<p><a href="https://github.com/ajlopez/SimpleMapReduce">SimpleMapReduce</a>: Exploring the implementation of a Map-Reduce algorithm.</p>
+<p><a href="https://github.com/ajlopez/SimpleTuring">SimpleTuring</a>: Turing machine implentation.</p>
+<p><a href="https://github.com/ajlopez/Cellular">Cellular</a>: Cellular automata implementation, including a <a href="https://github.com/ajlopez/Cellular/tree/master/samples/life">Game of Life console sample</a>.</p>
+<p>I will work on:</p>
+<p><a href="delicious.com/ajlopez">NodeDelicious</a>: To retrieve my links from my Delicious account, now the site was revamped and no more pagination.</p>
+<p><a href="https://github.com/ajlopez/SimpleDatabase">SimpleDatabase</a>: In-memory database, maybe I will add file persistence.</p>
+<p><a href="https://github.com/ajlopez/SimpleSudoku">SimpleSudoku</a>: Rewrite of my AjSudoku solver, from scratch.</p>
+<p>I’m having a lot of fun, as usual <img src='http://s1.wp.com/wp-includes/images/smilies/icon_wink.gif?m=1129645325g' alt=';-)' class='wp-smiley' /> </p>
+<p>Keep tuned!</p>
+<p>Angel “Java” Lopez   <br /><a href="http://www.ajlopez.com">http://www.ajlopez.com</a>    <br /><a href="http://twitter.com/ajlopez">http://twitter.com/ajlopez</a></p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled"></div>	</div>
+
+	<div class="feedback">
+                        <a href="http://ajlopez.wordpress.com/2013/01/12/code-katas-in-javascriptnode-js-using-tdd/#respond" title="Comment on Code Katas in JavaScript/Node.js using&nbsp;TDD">Leave a Comment</a>	</div>
+
+</div>
+
+
+
+<h2>January 11, 2013</h2>
+<div class="post-990 post type-post status-publish format-standard hentry category-links category-programming-languages category-smalltalk" id="post-990">
+	 <h3 class="storytitle">
+			<a href="http://ajlopez.wordpress.com/2013/01/11/smalltalk-links-news-and-resources-10/" title="Permalink to Smalltalk: Links, News And Resources&nbsp;(10)" rel="bookmark">Smalltalk: Links, News And Resources&nbsp;(10)</a>
+		 </h3>
+	<div class="meta">Filed under:  <a href="http://ajlopez.wordpress.com/category/links/" title="View all posts in Links" rel="category tag">Links</a>, <a href="http://ajlopez.wordpress.com/category/programming-languages/" title="View all posts in Programming Languages" rel="category tag">Programming Languages</a>, <a href="http://ajlopez.wordpress.com/category/smalltalk/" title="View all posts in Smalltalk" rel="category tag">Smalltalk</a> &#8212;  ajlopez @ 5:09 pm </div>
+
+	<div class="storycontent">
+		<p><a href="http://ajlopez.wordpress.com/2012/12/31/smalltalk-links-news-and-resources-9/">Previous Post</a><br />
+<a href="http://ajlopez.wordpress.com/2013/01/18/smalltalk-links-news-and-resources-11/">Next Post</a></p>
+<p>Sport &#8211; Smalltalk Portability<br />
+<a href="http://sourceforge.net/projects/sport/">http://sourceforge.net/projects/sport/</a><br />
+Sport is a Smalltalk portability layer.</p>
+<p>Aida<br />
+<a href="http://comments.gmane.org/gmane.comp.web.server.aida/2655">http://comments.gmane.org/gmane.comp.web.server.aida/2655</a><br />
+AIDA/Web is Web Application Server and Framework for building web apps</p>
+<p>Sport and Swazoo released<br />
+<a href="http://dolphinseaside.blogspot.com.ar/2006/07/sport-and-swazoo-released.html">http://dolphinseaside.blogspot.com.ar/2006/07/sport-and-swazoo-released.html</a></p>
+<p>Seaside for Dolphin Smalltalk<br />
+<a href="http://www.seaside.st/download/dolphin">http://www.seaside.st/download/dolphin</a></p>
+<p>Swazoo Smalltalk Web Server<br />
+<a href="http://www.swazoo.org/download.html">http://www.swazoo.org/download.html</a></p>
+<p>pmon / Cuis-PetitParser<br />
+<a href="https://github.com/pmon/Cuis-PetitParser">https://github.com/pmon/Cuis-PetitParser</a><br />
+PetitParser port to Cuis</p>
+<p>A Fan Letter to Redline Smalltalk …<br />
+<a href="http://jamesladdcode.com/2010/01/30/a-fan-letter-to-redline-smalltalk/">http://jamesladdcode.com/2010/01/30/a-fan-letter-to-redline-smalltalk/</a></p>
+<p>SUnit Tutorial<br />
+<a href="http://stephane.ducasse.free.fr/Programmez/OnTheWeb/SUnitEnglish2.pdf">http://stephane.ducasse.free.fr/Programmez/OnTheWeb/SUnitEnglish2.pdf</a></p>
+<p>SUnit<br />
+<a href="http://wiki.squeak.org/squeak/1547">http://wiki.squeak.org/squeak/1547</a><br />
+Kent Beck&#8217;s SUnit testing framework for Smalltalk</p>
+<p>SUnit<br />
+<a href="http://sunit.sourceforge.net/manual.htm">http://sunit.sourceforge.net/manual.htm</a><br />
+The mother of all unit testing frameworks<br />
+initialize &amp; new<br />
+<a href="http://vimeo.com/8058857">http://vimeo.com/8058857</a><br />
+Friendly, predictable methods to cling to in a system of methods defined by seeming madmen.</p>
+<p>Introduction to Smalltalk bytecodes<br />
+<a href="http://marianopeck.wordpress.com/2011/05/21/introduction-to-smalltalk-bytecodes/">http://marianopeck.wordpress.com/2011/05/21/introduction-to-smalltalk-bytecodes/</a><br />
+Smalltalks 2012 Videos<br />
+<a href="http://www.youtube.com/playlist?list=PLCGAAdUizzH31VumrhrK2HHepHu3DBpY0">http://www.youtube.com/playlist?list=PLCGAAdUizzH31VumrhrK2HHepHu3DBpY0</a></p>
+<p>Redline Smalltalk V1.0<br />
+<a href="http://www.indiegogo.com/smalltalk?c=pledges">http://www.indiegogo.com/smalltalk?c=pledges</a><br />
+Smalltalk: A White Paper Overview<br />
+<a href="http://web.cecs.pdx.edu/~harry/musings/SmalltalkOverview.html">http://web.cecs.pdx.edu/~harry/musings/SmalltalkOverview.html</a></p>
+<p>Allow me to reintroduce myself. My name is MagLev<br />
+<a href="http://confreaks.com/videos/1269-rubyconf2012-allow-me-to-reintroduce-myself-my-name-is-maglev">http://confreaks.com/videos/1269-rubyconf2012-allow-me-to-reintroduce-myself-my-name-is-maglev</a><br />
+Remember when Avi Bryant spoke at RailsConf &#8217;07 about Ruby&#8217;s future, and how it&#8217;d be slick if we could get to where Smalltalk was 30 years ago? Well, we kinda have, in some respects, with the 1.0 release of MagLev, a Ruby implementation running on a Smalltalk VM.</p>
+<p>Debug Mode is the Only Mode<br />
+<a href="http://gbracha.blogspot.co.uk/2012/11/debug-mode-is-only-mode.html">http://gbracha.blogspot.co.uk/2012/11/debug-mode-is-only-mode.html</a></p>
+<p>The Early History Of Smalltalk<br />
+<a href="http://worrydream.com/EarlyHistoryOfSmalltalk/">http://worrydream.com/EarlyHistoryOfSmalltalk/</a><br />
+by Alan C. Kay</p>
+<p>Smalltalks 2012 photos<br />
+<a href="http://blogten.blogspot.com.ar/2012/11/smalltalks-2012-photos.html">http://blogten.blogspot.com.ar/2012/11/smalltalks-2012-photos.html</a></p>
+<p>Cincom Smalltalk at Twitter<br />
+<a href="https://twitter.com/simplypossible">https://twitter.com/simplypossible</a></p>
+<p>My Links<br />
+<a href="http://delicious.com/ajlopez/smalltalk">http://delicious.com/ajlopez/smalltalk</a></p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled"></div>	</div>
+
+	<div class="feedback">
+                        <a href="http://ajlopez.wordpress.com/2013/01/11/smalltalk-links-news-and-resources-10/#comments" title="Comment on Smalltalk: Links, News And Resources&nbsp;(10)">Comments (2)</a>	</div>
+
+</div>
+
+
+
+<h2>January 10, 2013</h2>
+<div class="post-988 post type-post status-publish format-standard hentry category-links category-programming-languages category-python" id="post-988">
+	 <h3 class="storytitle">
+			<a href="http://ajlopez.wordpress.com/2013/01/10/python-links-news-and-resources-12/" title="Permalink to Python: Links, News And Resources&nbsp;(12)" rel="bookmark">Python: Links, News And Resources&nbsp;(12)</a>
+		 </h3>
+	<div class="meta">Filed under:  <a href="http://ajlopez.wordpress.com/category/links/" title="View all posts in Links" rel="category tag">Links</a>, <a href="http://ajlopez.wordpress.com/category/programming-languages/" title="View all posts in Programming Languages" rel="category tag">Programming Languages</a>, <a href="http://ajlopez.wordpress.com/category/python/" title="View all posts in Python" rel="category tag">Python</a> &#8212;  ajlopez @ 5:00 pm </div>
+
+	<div class="storycontent">
+		<p><a href="http://ajlopez.wordpress.com/2013/01/08/python-links-news-and-resources-11/">Previous Post</a></p>
+<p>livecoding    <br /><a href="http://livecoding.io/3411676">http://livecoding.io/3411676</a>    <br />an interactive sketchpad </p>
+<p>gabrielflorit / livecoding   <br /><a href="https://github.com/gabrielflorit/livecoding/">https://github.com/gabrielflorit/livecoding/</a>    <br /> live coding interactive sketchpad </p>
+<p>django-lean   <br /><a href="https://bitbucket.org/akoha/django-lean/wiki/Home">https://bitbucket.org/akoha/django-lean/wiki/Home</a>    <br />django-lean aims to be a collection of tools for Lean Startups using the Django platform. Currently it provides a framework for implementing split-test experiments in JavaScript, Python, or Django template code along with administrative views for analyzing the results of those experiments. </p>
+<p>[Python-ideas] re-implementing Twisted for fun and profit   <br /><a href="http://mail.python.org/pipermail/python-ideas/2012-October/016938.html">http://mail.python.org/pipermail/python-ideas/2012-October/016938.html</a>    <br />by Guido van Rossum </p>
+<p>Guido van Rossum   <br /><a href="https://plus.google.com/u/0/115212051037621986145/posts/fnb8pqsGGb2">https://plus.google.com/u/0/115212051037621986145/posts/fnb8pqsGGb2</a>    <br />Wanted: experts in Twisted, Tornado, asyncore or other Python async APIs (greenlets/gevent, Stackless, libevent all welcome!). </p>
+<p>Proyecto CDPedia   <br /><a href="http://python.org.ar/pyar/Proyectos/CDPedia/Historia">http://python.org.ar/pyar/Proyectos/CDPedia/Historia</a>    <br />CDPedia, la historia </p>
+<p>Hello, Little Turtles!   <br /><a href="http://interactivepython.org/courselib/static/thinkcspy/PythonTurtle/helloturtle.html">http://interactivepython.org/courselib/static/thinkcspy/PythonTurtle/helloturtle.html</a></p>
+<p>Seven ways to use Python&#8217;s new turt Decalz &#8211; Snaky (vodpod) | Lockerz   <br /><a href="http://lockerz.com/u/21205615/decalz/13082004/seven_ways_to_use_python_s_new_turtle_mo">http://lockerz.com/u/21205615/decalz/13082004/seven_ways_to_use_python_s_new_turtle_mo</a></p>
+<p>Learning Python   <br /><a href="http://www.research.rutgers.edu/~rohanf/LP.pdf">http://www.research.rutgers.edu/~rohanf/LP.pdf</a></p>
+<p>Writing great documentation   <br /><a href="http://jacobian.org/writing/great-documentation/">http://jacobian.org/writing/great-documentation/</a>    <br /> I love Django’s documentation. It clocks in at about 700 pages printed, and most of it is clear, concise, and helpful. I think Django’s among the best documented open source projects, and nothing makes me prouder. </p>
+<p> #pythonIO presentación de Python   <br /><a href="http://www.desarrolloweb.com/en-directo/pythonio-presentacion-django-7521.html">http://www.desarrolloweb.com/en-directo/pythonio-presentacion-django-7521.html</a></p>
+<p>Ojota   <br /><a href="http://felipelerena.com.ar/es/posts/ojota.html">http://felipelerena.com.ar/es/posts/ojota.html</a></p>
+<p>PEP 380: Syntax for Delegating to a Subgenerator   <br /><a href="http://docs.python.org/3/whatsnew/3.3.html#pep-380">http://docs.python.org/3/whatsnew/3.3.html#pep-380</a>    <br />PEP 380 adds the yield from expression, allowing a generator to delegate part of its operations to another generator. </p>
+<p>Python 3.3.0   <br /><a href="http://python.org/download/releases/3.3.0/">http://python.org/download/releases/3.3.0/</a></p>
+<p>The random module   <br /><a href="http://effbot.org/librarybook/random.htm">http://effbot.org/librarybook/random.htm</a></p>
+<p>In Python We Trust   <br /><a href="http://www.youtube.com/watch?v=mWB3oh1GPdo">http://www.youtube.com/watch?v=mWB3oh1GPdo</a></p>
+<p>Mini-languages in Python   <br /><a href="http://stackoverflow.com/questions/1547782/mini-languages-in-python">http://stackoverflow.com/questions/1547782/mini-languages-in-python</a></p>
+<p>Creating Domain Specific Languages in Python   <br /><a href="http://www.slideshare.net/Siddhi/creating-domain-specific-languages-in-python">http://www.slideshare.net/Siddhi/creating-domain-specific-languages-in-python</a></p>
+<p>Online Python Tutor   <br /><a href="http://www.pythontutor.com/">http://www.pythontutor.com/</a>    <br />LEARN programming by visualizing code execution </p>
+<p>An Introduction to Distutils   <br /><a href="http://docs.python.org/2/distutils/introduction.html">http://docs.python.org/2/distutils/introduction.html</a></p>
+<p>Programación Python con Robots &#8211; charla abierta   <br /><a href="http://reingart.blogspot.com.ar/2012/09/programacion-python-con-robots-charla.html">http://reingart.blogspot.com.ar/2012/09/programacion-python-con-robots-charla.html</a></p>
+<p>Create a Python game for the Raspberry Pi   <br /><a href="http://www.pcpro.co.uk/features/376867/create-a-python-game-for-the-raspberry-pi">http://www.pcpro.co.uk/features/376867/create-a-python-game-for-the-raspberry-pi</a></p>
+<p>Emacs as a Python IDE   <br /><a href="http://www.jesshamrick.com/2012/09/18/emacs-as-a-python-ide/">http://www.jesshamrick.com/2012/09/18/emacs-as-a-python-ide/</a></p>
+<p>PyDay CBA 2012   <br /><a href="http://www.flickr.com/photos/56563601@N08/sets/72157631556887731/">http://www.flickr.com/photos/56563601@N08/sets/72157631556887731/</a></p>
+<p>machinalis / django-template-previewer   <br /><a href="https://github.com/machinalis/django-template-previewer/blob/master/README.md">https://github.com/machinalis/django-template-previewer/blob/master/README.md</a>    <br />This is a django app to be used in development environments only. Its purpose is to allow template writers to preview rendering of the templates providing a handcrafted context, without having to write view code.    <br /><a href="https://github.com/machinalis/django-template-previewer/">https://github.com/machinalis/django-template-previewer/</a></p>
+<p>My Links   <br /><a href="http://delicious.com/ajlopez/python">http://delicious.com/ajlopez/python</a></p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled"></div>	</div>
+
+	<div class="feedback">
+                        <a href="http://ajlopez.wordpress.com/2013/01/10/python-links-news-and-resources-12/#comments" title="Comment on Python: Links, News And Resources&nbsp;(12)">Comments (1)</a>	</div>
+
+</div>
+
+
+
+<h2>January 8, 2013</h2>
+<div class="post-986 post type-post status-publish format-standard hentry category-links category-programming-languages category-python" id="post-986">
+	 <h3 class="storytitle">
+			<a href="http://ajlopez.wordpress.com/2013/01/08/python-links-news-and-resources-11/" title="Permalink to Python: Links, News And Resources&nbsp;(11)" rel="bookmark">Python: Links, News And Resources&nbsp;(11)</a>
+		 </h3>
+	<div class="meta">Filed under:  <a href="http://ajlopez.wordpress.com/category/links/" title="View all posts in Links" rel="category tag">Links</a>, <a href="http://ajlopez.wordpress.com/category/programming-languages/" title="View all posts in Programming Languages" rel="category tag">Programming Languages</a>, <a href="http://ajlopez.wordpress.com/category/python/" title="View all posts in Python" rel="category tag">Python</a> &#8212;  ajlopez @ 4:31 pm </div>
+
+	<div class="storycontent">
+		<p><a href="http://ajlopez.wordpress.com/2012/11/28/early-python-geek-links-10/">Previous Post</a><br />
+<a href="http://ajlopez.wordpress.com/2013/01/10/python-links-news-and-resources-12/">Next Post</a></p>
+<p>Modificaciones realizadas al Robot Multiplo N6<br />
+para permitir programaci on interactiva<br />
+<a href="http://www.41jaiio.org.ar/sites/default/files/11_JSL_2012.pdf">http://www.41jaiio.org.ar/sites/default/files/11_JSL_2012.pdf</a></p>
+<p>Aprendiendo a programar con Robots y Python<br />
+<a href="http://pyconar.blogspot.com.ar/2012/09/aprendiendo-programar-con-robots-y.html">http://pyconar.blogspot.com.ar/2012/09/aprendiendo-programar-con-robots-y.html</a></p>
+<p>Why PHP Is Fun and Easy But Python Is Marriage Material<br />
+<a href="http://onstartups.com/tabid/3339/bid/20493/Why-PHP-Is-Fun-and-Easy-But-Python-Is-Marriage-Material.aspx">http://onstartups.com/tabid/3339/bid/20493/Why-PHP-Is-Fun-and-Easy-But-Python-Is-Marriage-Material.aspx</a></p>
+<p>Fast Non-Standard Data Structures for Python<br />
+<a href="http://kmike.ru/python-data-structures/">http://kmike.ru/python-data-structures/</a></p>
+<p>Getting Started with Django<br />
+<a href="http://gettingstartedwithdjango.com/">http://gettingstartedwithdjango.com/</a></p>
+<p>aima-python<br />
+<a href="https://code.google.com/p/aima-python/">https://code.google.com/p/aima-python/</a><br />
+Python implementation of algorithms from Russell and Norvig&#8217;s &#8216;Artificial Intelligence: A Modern Approach&#8217;</p>
+<p>fisadev / simpleai<br />
+<a href="https://github.com/fisadev/simpleai">https://github.com/fisadev/simpleai</a><br />
+simple artificial intelligence utilities</p>
+<p>Nuitka<br />
+<a href="http://nuitka.net/">http://nuitka.net/</a><br />
+Nuitka the Python compiler started out using C++0x which is now C++11</p>
+<p>Haciendo un cargador de juegos python<br />
+<a href="http://hugoruscitti.github.com/2012/08/19/haciendo-un-cargador-de-juegos-python/">http://hugoruscitti.github.com/2012/08/19/haciendo-un-cargador-de-juegos-python/</a></p>
+<p>Human.io<br />
+<a href="http://human.io/">http://human.io/</a><br />
+Easily create and instantly deploy tiny bits of interactive code to your army of followers via their mobile devices.</p>
+<p>Learn how to code a Facebook app in 20 minutes on PythonAnywhere<br />
+<a href="http://blog.pythonanywhere.com/35/">http://blog.pythonanywhere.com/35/</a></p>
+<p>Introducción a la programación con Python<br />
+<a href="http://www.uji.es/bin/publ/edicions/ippython.pdf">http://www.uji.es/bin/publ/edicions/ippython.pdf</a></p>
+<p>PROGRAMACIÓN ORIENTADA A OBJETOS EN PYTHON<br />
+<a href="http://www.maestrosdelweb.com/editorial/guia-python/">http://www.maestrosdelweb.com/editorial/guia-python/</a></p>
+<p>Por qué Thymbra ya no es Partner de OpenERP<br />
+<a href="http://blog.thymbra.com/2011/10/por-que-thymbra-ya-no-es-partner-de.html">http://blog.thymbra.com/2011/10/por-que-thymbra-ya-no-es-partner-de.html</a></p>
+<p>maritnvol / Donnees-Acquisition-Data-software<br />
+<a href="https://github.com/maritnvol/Donnees-Acquisition-Data-software">https://github.com/maritnvol/Donnees-Acquisition-Data-software</a><br />
+Python Powered Acquisition Data software</p>
+<p>Donnees code released as open source project<br />
+<a href="http://volteck.net/development/2012/08/donnees-code-released-as-open-source-project/">http://volteck.net/development/2012/08/donnees-code-released-as-open-source-project/</a></p>
+<p>Plataforma de Desarrollo Rápido de Aplicaciones bajo el<br />
+Proceso de Software Personal: en busqueda de agilidad,<br />
+solidez y disciplina para la Ingeniería de Software<br />
+<a href="http://www.41jaiio.org.ar/sites/default/files/17_EST_2012.pdf">http://www.41jaiio.org.ar/sites/default/files/17_EST_2012.pdf</a></p>
+<p>Posicionamiento de V ertebras mediante Landmarks y Redes<br />
+Bayesianas<br />
+<a href="http://www.41jaiio.org.ar/sites/default/files/18_EST_2012.pdf">http://www.41jaiio.org.ar/sites/default/files/18_EST_2012.pdf</a><br />
+PyBones<br />
+Programando con Robots realizó un taller en Informática<br />
+<a href="http://robots.linti.unlp.edu.ar/index.php?title=P%C3%A1gina_principal">http://robots.linti.unlp.edu.ar/index.php?title=P%C3%A1gina_principal</a><br />
+PyCon alrededor del mundo: becas Systers Pass-It-On<br />
+<a href="http://pyconar.blogspot.com.ar/2012/08/pycon-alrededor-del-mundo-becas-systers.html">http://pyconar.blogspot.com.ar/2012/08/pycon-alrededor-del-mundo-becas-systers.html</a></p>
+<p>PyCon Around the world: Make a difference with a Systers Pass-It-On Award<br />
+<a href="http://pycon.blogspot.com.ar/2012/08/pycon-around-world-make-difference-with.html">http://pycon.blogspot.com.ar/2012/08/pycon-around-world-make-difference-with.html</a></p>
+<p>lshimokawa / codingdojo<br />
+<a href="https://github.com/lshimokawa/codingdojo">https://github.com/lshimokawa/codingdojo</a><br />
+Boilerplate code for starting Coding Dojos, each folder contains a unit testing framework configured with an initial test</p>
+<p>SnapPy<br />
+<a href="http://www.math.uic.edu/t3m/SnapPy/">http://www.math.uic.edu/t3m/SnapPy/</a><br />
+SnapPy is a program for studying the topology and geometry of 3-manifolds, with a focus on hyperbolic structures.</p>
+<p>Codecademy: Python<br />
+<a href="http://www.codecademy.com/tracks/python">http://www.codecademy.com/tracks/python</a></p>
+<p>Need a Game Idea? A List of Game Mechanics and a Random Mechanic Mixer.<br />
+<a href="http://inventwithpython.com/blog/2012/07/30/need-a-game-idea-a-list-of-game-mechanics-and-a-random-mechanic-mixer/">http://inventwithpython.com/blog/2012/07/30/need-a-game-idea-a-list-of-game-mechanics-and-a-random-mechanic-mixer/</a></p>
+<p>marianoguerra / SassPython<br />
+<a href="https://github.com/marianoguerra/SassPython">https://github.com/marianoguerra/SassPython</a><br />
+python bindings for libsass</p>
+<p>cells. A massively multi-agent Python programming game<br />
+<a href="http://phonons.wordpress.com/2010/06/01/cells-a-massively-multi-agent-python-programming-game/">http://phonons.wordpress.com/2010/06/01/cells-a-massively-multi-agent-python-programming-game/</a><br />
+<a href="http://news.ycombinator.com/item?id=1395726">http://news.ycombinator.com/item?id=1395726</a><br />
+ninja-ide / kanzen<br />
+<a href="https://github.com/ninja-ide/kanzen">https://github.com/ninja-ide/kanzen</a><br />
+NINJA-IDE Code Completion module</p>
+<p>HOW TO WRITE VIM PLUGINS WITH PYTHON<br />
+<a href="http://brainacle.com/how-to-write-vim-plugins-with-python.html">http://brainacle.com/how-to-write-vim-plugins-with-python.html</a></p>
+<p>Flasky Goodness (Or Why Django Sucks?)<br />
+<a href="https://speakerdeck.com/kennethreitz/flasky-goodness">https://speakerdeck.com/kennethreitz/flasky-goodness</a></p>
+<p>pymothoa<br />
+<a href="http://code.google.com/p/pymothoa/">http://code.google.com/p/pymothoa/</a><br />
+A JIT extension to Python<br />
+Pymothoa extends the Python language by adding JIT compilation without any modification of the interpreter source code</p>
+<p>Bottle: Python Web Framework<br />
+<a href="http://bottlepy.org/docs/dev/">http://bottlepy.org/docs/dev/</a></p>
+<p>My Links<br />
+<a href="http://delicious.com/ajlopez/python">http://delicious.com/ajlopez/python</a></p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled"></div>	</div>
+
+	<div class="feedback">
+                        <a href="http://ajlopez.wordpress.com/2013/01/08/python-links-news-and-resources-11/#comments" title="Comment on Python: Links, News And Resources&nbsp;(11)">Comments (1)</a>	</div>
+
+</div>
+
+
+
+<h2>January 6, 2013</h2>
+<div class="post-985 post type-post status-publish format-standard hentry category-ajtalk category-basicscript category-javascript category-mapreduce category-nodejs category-open-source-projects category-php category-py2script category-python category-simpleboard category-simplechess category-simplego category-simplemapreduce category-smalltalk category-web-development" id="post-985">
+	 <h3 class="storytitle">
+			<a href="http://ajlopez.wordpress.com/2013/01/06/new-months-resolutions-january-2013/" title="Permalink to New Month&rsquo;s Resolutions: January&nbsp;2013" rel="bookmark">New Month&rsquo;s Resolutions: January&nbsp;2013</a>
+		 </h3>
+	<div class="meta">Filed under:  <a href="http://ajlopez.wordpress.com/category/ajtalk/" title="View all posts in AjTalk" rel="category tag">AjTalk</a>, <a href="http://ajlopez.wordpress.com/category/basicscript/" title="View all posts in BasicScript" rel="category tag">BasicScript</a>, <a href="http://ajlopez.wordpress.com/category/javascript/" title="View all posts in JavaScript" rel="category tag">JavaScript</a>, <a href="http://ajlopez.wordpress.com/category/mapreduce/" title="View all posts in MapReduce" rel="category tag">MapReduce</a>, <a href="http://ajlopez.wordpress.com/category/nodejs/" title="View all posts in NodeJs" rel="category tag">NodeJs</a>, <a href="http://ajlopez.wordpress.com/category/open-source-projects/" title="View all posts in Open Source Projects" rel="category tag">Open Source Projects</a>, <a href="http://ajlopez.wordpress.com/category/php/" title="View all posts in PHP" rel="category tag">PHP</a>, <a href="http://ajlopez.wordpress.com/category/py2script/" title="View all posts in Py2Script" rel="category tag">Py2Script</a>, <a href="http://ajlopez.wordpress.com/category/python/" title="View all posts in Python" rel="category tag">Python</a>, <a href="http://ajlopez.wordpress.com/category/simpleboard/" title="View all posts in SimpleBoard" rel="category tag">SimpleBoard</a>, <a href="http://ajlopez.wordpress.com/category/simplechess/" title="View all posts in SimpleChess" rel="category tag">SimpleChess</a>, <a href="http://ajlopez.wordpress.com/category/simplego/" title="View all posts in SimpleGo" rel="category tag">SimpleGo</a>, <a href="http://ajlopez.wordpress.com/category/simplemapreduce/" title="View all posts in SimpleMapReduce" rel="category tag">SimpleMapReduce</a>, <a href="http://ajlopez.wordpress.com/category/smalltalk/" title="View all posts in Smalltalk" rel="category tag">Smalltalk</a>, <a href="http://ajlopez.wordpress.com/category/web-development/" title="View all posts in Web Development" rel="category tag">Web Development</a> &#8212;  ajlopez @ 8:18 pm </div>
+
+	<div class="storycontent">
+		<p>The first month of a new year! I&#8217;m was busy coding a lot. It&#8217;s time to review <a href="http://ajlopez.wordpress.com/2012/12/03/new-months-resolutions-december-2012/">past month resolutions</a>:</p>
+<p>- Work on PythonSharp <strong><font color="#804040">[pending]</font></strong>    <br />- Work on AjTalk for C# <strong><font color="#008000">[complete]</font></strong> <a href="https://github.com/ajlopez/AjTalk">see repo</a> and <a href="http://ajlopez.wordpress.com/category/ajtalk/">see my posts</a>    <br />- Give a Node.js course <strong><font color="#008000">[complete]</font></strong> <a href="http://msmvps.com/blogs/lopez/archive/2012/12/13/node-js-en-buenos-aires.aspx">Spanish post</a>    <br />- Start .md pages Java tutorial <strong><font color="#804040">[pending]</font></strong></p>
+<p>Additionally, I was working on:</p>
+<p>- Start Py2Script Python to JavaScript compiler <strong><font color="#008000">[complete]</font></strong> <a href="https://github.com/ajlopez/Py2Script">see repo</a>    <br />- Update my Node.js samples <strong><font color="#008000">[complete]</font></strong> <a href="https://github.com/ajlopez/NodeSamples">see repo</a>    <br />- Start and publish version 0.0.1 of SimpleWeb, my middleware layer <strong><font color="#008000">[complete]</font></strong> <a href="https://github.com/ajlopez/SimpleWeb">see repo</a>    <br />- Start BasicScript <strong><font color="#008000">[complete]</font></strong> <a href="https://github.com/ajlopez/BasicScript">see repo</a>    <br />- Start and publish version 0.0.1 of CobolScript <strong><font color="#008000">[complete]</font></strong> <a href="https://github.com/ajlopez/CobolScript">see repo</a> and <a href="http://ajlopez.wordpress.com/category/cobolscript/">see my posts</a>    <br />- Update AjConsorSite <strong><font color="#008000">[complete]</font></strong> <a href="https://github.com/ajlopez/AjConsorSite">see repo</a>    <br />- Start Inmob <strong><font color="#008000">[complete]</font></strong> <a href="https://github.com/ajlopez/Inmob">see repo</a></p>
+<p>For this new month, these are my new resolutions (some are already started):</p>
+<p>- Start SimpleScript   <br />- Start SimpleBoard    <br />- Start SimpleChess    <br />- Start SimpleGo    <br />- Start and publish a version of SimpleMapReduce, with local and distributed sample    <br />- Start and publish a version of SimpleFunc, object with functions serialization    <br />- Start Memolap, C# in-memory multidimensional OLAP-like library and sample    <br />- Start SimpleMemolap, the same but in JavaScript/Node.js    <br />- Start SimpleRules, forward-chaining rule engine, that compiles to JavaScript</p>
+<p>A lot of fun! <img src='http://s1.wp.com/wp-includes/images/smilies/icon_wink.gif?m=1129645325g' alt=';-)' class='wp-smiley' /> </p>
+<p>Keep tuned!</p>
+<p>Angel “Java” Lopez   <br /><a href="http://www.ajlopez.com">http://www.ajlopez.com</a>    <br /><a href="http://twitter.com/ajlopez">http://twitter.com/ajlopez</a></p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled"></div>	</div>
+
+	<div class="feedback">
+                        <a href="http://ajlopez.wordpress.com/2013/01/06/new-months-resolutions-january-2013/#respond" title="Comment on New Month&rsquo;s Resolutions: January&nbsp;2013">Leave a Comment</a>	</div>
+
+</div>
+
+
+
+<h2>January 2, 2013</h2>
+<div class="post-984 post type-post status-publish format-standard hentry category-compilers category-javascript category-nodejs category-open-source-projects category-programming-languages category-simplescript" id="post-984">
+	 <h3 class="storytitle">
+			<a href="http://ajlopez.wordpress.com/2013/01/02/simplescript-1-first-ideas/" title="Permalink to SimpleScript (1) First&nbsp;ideas" rel="bookmark">SimpleScript (1) First&nbsp;ideas</a>
+		 </h3>
+	<div class="meta">Filed under:  <a href="http://ajlopez.wordpress.com/category/compilers/" title="View all posts in Compilers" rel="category tag">Compilers</a>, <a href="http://ajlopez.wordpress.com/category/javascript/" title="View all posts in JavaScript" rel="category tag">JavaScript</a>, <a href="http://ajlopez.wordpress.com/category/nodejs/" title="View all posts in NodeJs" rel="category tag">NodeJs</a>, <a href="http://ajlopez.wordpress.com/category/open-source-projects/" title="View all posts in Open Source Projects" rel="category tag">Open Source Projects</a>, <a href="http://ajlopez.wordpress.com/category/programming-languages/" title="View all posts in Programming Languages" rel="category tag">Programming Languages</a>, <a href="http://ajlopez.wordpress.com/category/simplescript/" title="View all posts in SimpleScript" rel="category tag">SimpleScript</a> &#8212;  ajlopez @ 2:38 pm </div>
+
+	<div class="storycontent">
+		<p>The latest two week, I was busy writing <a href="https://github.com/ajlopez/CobolScript">CobolScript</a>, my COBOL compiler to JavaScript (see <a href="http://ajlopez.wordpress.com/category/cobolscript/">my posts</a>). I have console sample programs, and dynamic pages samples running on Node.js (see <a href="https://github.com/ajlopez/CobolScript#samples">samples</a>). The web samples are using the simple http node.js module, or my <a href="https://github.com/ajlopez/SimpleWeb">new SimpleWeb module</a>, a simple middleware layer a la Connect. I started to write a Python to JavaScript compiler, see <a href="https://github.com/ajlopez/Py2Script">Py2Script</a>, too. But now, after those training projecs (my first ones that are compiling to JavaScript using JavaScript), I want to push the envelope and write a simple script compiler, I named SimpleScript (see <a href="https://github.com/ajlopez/SimpleScript">repo</a>).</p>
+<p>The key points:</p>
+<p>- It compiles to JavaScript, so, it’s JavaScript-oriented. It’s not a script language to be implemented in different technologies (.NET, Java, JavaScript). It’s totally oriented to JavaScript semantic.</p>
+<p>- I love C programming language tradition, but this time, I want no semicolons and curly braces. I want a syntax more Python/Ruby oriented.</p>
+<p>- No indentation “hell”. Ok, I like Python, but indentation as part of the syntax, it’s not my preferred way.</p>
+<p>- No command separator (no semicolon or something else) except new line or syntax. That is, I could write</p>
+<p><font face="Consolas"><strong>if</strong> a &lt; 1 a = 1</font></p>
+<p>or</p>
+<p><font face="Consolas"><strong>if</strong> a &lt; 1      <br />&#160;&#160; a = 1      <br /><strong>end</strong></font></p>
+<p>Notice the use of <strong>end</strong>.</p>
+<p>You CANNOT write (semicolon is not a separator):</p>
+<p><font face="Consolas"><strong>if</strong> a &lt; 1 a=1; b=2</font></p>
+<p>You MUST write:</p>
+<p><font face="Consolas"><strong>if</strong> a &lt; 1      <br />&#160; a = 1      <br />&#160; b = 2      <br /><strong>end</strong></font></p>
+<p>- No parenthesis around conditions (see the above if example).</p>
+<p>- Only<strong> for … in</strong> , to be discussed. I want to have for-in as in JavaScript, but with some variant to access directly the values instead the names/indexes of an object or array. Something like</p>
+<p><strong>for</strong> k <strong>in</strong> myarray</p>
+<p>iterates over myarray indexes.</p>
+<p><strong>for</strong> k <strong>in</strong> myarray <strong>values</strong></p>
+<p>iterates over myarray values, directly. Range expression will be supported:</p>
+<p><font face="Consolas"><strong>for</strong> k <strong>in</strong> 0..n</font></p>
+<p>- Loops with <strong>continue</strong>, <strong>break</strong>. The main loop construction is the <strong>while</strong>.</p>
+<p>- Functions as first class citizens.</p>
+<p>- <strong>function</strong> keyword will be used to define anonymous functions. Maybe (to be discussed) I will use <strong>define</strong> keyword to define named functions.</p>
+<p>- Function invocation with explicit parenthesis (forget Ruby convention, go for something like Python 3.x).</p>
+<p>- Array access with <strong>[]</strong> (forget Basic programming convention of using parenthesis).</p>
+<p>- External variables. I learnt this from my CobolScript work: the linkage section is useful. An external variable is something injected at runtime (not a global one), and it can be provided in the call to the program. For example, <strong>print</strong> function could be an external one, so the calling program could redirect the print to the console, or to a buffer or to the web response. at will.</p>
+<p>- Global variables should be declared explicitly. All non-declared variable is considered local (to the function, unit where it is used).</p>
+<p>- Functions has closures as in JavaScript. In contrast, AFAIK, Python use explicit declaration to access outer variables in a function. I like JavaScript automatic access to outer variables, so I will keep it.</p>
+<p>- Async constructions. I added this to CobolScript, and I found it useful. It&#8217;s something like the await/async in C# 5.0</p>
+<p>- Run on the browser and on Node.js.</p>
+<p>- Class support: to be discussed (the only key use case I have, is the game client coding for my game project).</p>
+<p>I know, there are other implementations, like CofeeScript. But I want to training me, on JavaScript, Node.js and TDD.</p>
+<p>Keep tuned!</p>
+<p>Angel “Java” Lopez   <br /><a href="http://www.ajlopez.com">http://www.ajlopez.com</a>    <br /><a href="http://twitter.com/ajlopez">http://twitter.com/ajlopez</a></p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled"></div>	</div>
+
+	<div class="feedback">
+                        <a href="http://ajlopez.wordpress.com/2013/01/02/simplescript-1-first-ideas/#respond" title="Comment on SimpleScript (1) First&nbsp;ideas">Leave a Comment</a>	</div>
+
+</div>
+
+
+
+<h2>December 31, 2012</h2>
+<div class="post-982 post type-post status-publish format-standard hentry category-links category-programming-languages category-smalltalk" id="post-982">
+	 <h3 class="storytitle">
+			<a href="http://ajlopez.wordpress.com/2012/12/31/smalltalk-links-news-and-resources-9/" title="Permalink to Smalltalk: Links, News And Resources&nbsp;(9)" rel="bookmark">Smalltalk: Links, News And Resources&nbsp;(9)</a>
+		 </h3>
+	<div class="meta">Filed under:  <a href="http://ajlopez.wordpress.com/category/links/" title="View all posts in Links" rel="category tag">Links</a>, <a href="http://ajlopez.wordpress.com/category/programming-languages/" title="View all posts in Programming Languages" rel="category tag">Programming Languages</a>, <a href="http://ajlopez.wordpress.com/category/smalltalk/" title="View all posts in Smalltalk" rel="category tag">Smalltalk</a> &#8212;  ajlopez @ 4:18 pm </div>
+
+	<div class="storycontent">
+		<p><a href="http://ajlopez.wordpress.com/2012/12/28/smalltalk-links-news-and-resources-8/">Previous Post</a><br />
+<a href="http://ajlopez.wordpress.com/2013/01/11/smalltalk-links-news-and-resources-10/">Next Post</a></p>
+<p>Building a Business with Cincom Smalltalk™ by Arden Thomas and Dirk Verleysen<br />
+<a href="http://www.youtube.com/watch?v=IUBjrDYIysY&amp;feature=youtu.be&amp;a">http://www.youtube.com/watch?v=IUBjrDYIysY&amp;feature=youtu.be&amp;a</a></p>
+<p>ProgressGrid<br />
+<a href="http://www.youtube.com/watch?v=EpySCk8bVT4&amp;feature=youtu.be&amp;a">http://www.youtube.com/watch?v=EpySCk8bVT4&amp;feature=youtu.be&amp;a</a></p>
+<p>Introduction to Smalltalk<br />
+<a href="http://live.exept.de/doc/books/JoyOfST/IntroToST.html">http://live.exept.de/doc/books/JoyOfST/IntroToST.html</a></p>
+<p>Porting from VisualWorks to Squeak<br />
+<a href="http://scg.unibe.ch/wiki/howtos/portingfromvisualworkstosqueak">http://scg.unibe.ch/wiki/howtos/portingfromvisualworkstosqueak</a></p>
+<p>Namespaces (Was: MNU in tools after loading parcel)<br />
+<a href="http://forum.world.st/Namespaces-Was-MNU-in-tools-after-loading-parcel-td3160938.html">http://forum.world.st/Namespaces-Was-MNU-in-tools-after-loading-parcel-td3160938.html</a></p>
+<p>The System Browser 101<br />
+<a href="http://www.cincomsmalltalk.com/tutorials/version7/tutorial1/weblogstats7.htm">http://www.cincomsmalltalk.com/tutorials/version7/tutorial1/weblogstats7.htm</a></p>
+<p>Building the VM – Second Part<br />
+<a href="http://marianopeck.wordpress.com/2011/04/16/building-the-vm-second-part/">http://marianopeck.wordpress.com/2011/04/16/building-the-vm-second-part/</a></p>
+<p>Building the VM from scratch using Git and CMakeVMMaker<br />
+<a href="http://marianopeck.wordpress.com/2011/04/10/building-the-vm-from-scratch-using-git-and-cmakevmmaker/">http://marianopeck.wordpress.com/2011/04/10/building-the-vm-from-scratch-using-git-and-cmakevmmaker/</a></p>
+<p>Mac Squeak VM<br />
+<a href="http://smallworks.com.ar/products/vm">http://smallworks.com.ar/products/vm</a></p>
+<p>Reef is a framework to manage dynamic web components for Seaside<br />
+<a href="http://association.pharo.org/">http://association.pharo.org/</a></p>
+<p>Project Renaissance: Harness Emergence<br />
+<a href="http://soft.vub.ac.be/~smarr/renaissance/">http://soft.vub.ac.be/~smarr/renaissance/</a></p>
+<p>Sly and the RoarVM: Exploring the Manycore Future of Programming<br />
+<a href="http://soft.vub.ac.be/~smarr/2012/11/sly-and-the-roarvm-exploring-the-manycore-future-of-programming-2/">http://soft.vub.ac.be/~smarr/2012/11/sly-and-the-roarvm-exploring-the-manycore-future-of-programming-2/</a></p>
+<p>tode<br />
+<a href="http://code.google.com/p/tode/">http://code.google.com/p/tode/</a><br />
+tODE &#8211; the Object (centric) Development Environment</p>
+<p>Byte Magazine Volume 06 Number 08 &#8211; Smalltalk (August 1981)<br />
+<a href="http://archive.org/details/byte-magazine-1981-08">http://archive.org/details/byte-magazine-1981-08</a></p>
+<p>Dale Henrich&#8217;s GitHub Repositories<br />
+<a href="http://dalehenrich.github.com/">http://dalehenrich.github.com/</a></p>
+<p>Videos Smalltalks 2010<br />
+Inline caching (Part 1) by Eliot Miranda<br />
+<a href="http://www.fast.org.ar/smalltalks2010/videos/Inline%20caching">http://www.fast.org.ar/smalltalks2010/videos/Inline%20caching</a></p>
+<p>Videos Smalltalks 2010<br />
+Code generation (Part 1) by Eliot Miranda<br />
+<a href="http://www.fast.org.ar/smalltalks2010/videos/Code%20generation">http://www.fast.org.ar/smalltalks2010/videos/Code%20generation</a></p>
+<p>Smalltalk is cool<br />
+<a href="http://astares.blogspot.com.ar/2012/11/smalltalk-is-cool.html">http://astares.blogspot.com.ar/2012/11/smalltalk-is-cool.html</a></p>
+<p>Do object-oriented programming languages exist that are not class-based?<br />
+<a href="http://programmers.stackexchange.com/questions/115418/do-object-oriented-programming-languages-exist-that-are-not-class-based">http://programmers.stackexchange.com/questions/115418/do-object-oriented-programming-languages-exist-that-are-not-class-based</a></p>
+<p>DBXTalk<br />
+<a href="http://dbxtalk.smallworks.com.ar/tools">http://dbxtalk.smallworks.com.ar/tools</a></p>
+<p>Smalltalk Tutorial<br />
+<a href="http://smalltalktutorial.herokuapp.com/">http://smalltalktutorial.herokuapp.com/</a></p>
+<p>Roassal<br />
+<a href="http://www.slideshare.net/bergel/roassal-presentation">http://www.slideshare.net/bergel/roassal-presentation</a><br />
+Turn your programming environment into a beauty center for objects</p>
+<p>MicroSeeker Screenshots<br />
+<a href="http://www.huv.com/uSeeker/smalltalk/screenshots.html">http://www.huv.com/uSeeker/smalltalk/screenshots.html</a></p>
+<p>Underwater Vehicles: MicroSeeker<br />
+<a href="http://www.huv.com/uSeeker/index.html">http://www.huv.com/uSeeker/index.html</a></p>
+<p>The Mist Project<br />
+<a href="http://mist-project.org/">http://mist-project.org/</a><br />
+There is no &#8220;C&#8221; in &#8220;Smalltalk&#8221;</p>
+<p>What If: Developing Applications in the Multicore Era<br />
+<a href="http://soft.vub.ac.be/~smarr/2012/11/what-if-developing-applications-in-the-multicore-era/">http://soft.vub.ac.be/~smarr/2012/11/what-if-developing-applications-in-the-multicore-era/</a></p>
+<p>Jugando con Comet en Squeak<br />
+<a href="http://diegogomezdeck.blogspot.com.ar/search?q=comet">http://diegogomezdeck.blogspot.com.ar/search?q=comet</a></p>
+<p>Monticello<br />
+<a href="http://wiresong.ca/monticello/">http://wiresong.ca/monticello/</a><br />
+Monticello is a distributed optimistic concurrent versioning system for Squeak code. It was written by Avi Bryant and Colin Putney, with contributions from many members of the Squeak community.</p>
+<p>IM 101: Object Memory Management in VisualWorks<br />
+<a href="http://www.jarober.com/blog/blogView?entry=3529487736">http://www.jarober.com/blog/blogView?entry=3529487736</a></p>
+<p>My Links<br />
+<a href="http://delicious.com/ajlopez/smalltalk">http://delicious.com/ajlopez/smalltalk</a></p>
+<p>Keep tuned!</p>
+<p>Angel “Java” Lopez<br />
+<a href="http://www.ajlopez.com">http://www.ajlopez.com</a><br />
+<a href="http://twitter.com/ajlopez">http://twitter.com/ajlopez</a></p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled"></div>	</div>
+
+	<div class="feedback">
+                        <a href="http://ajlopez.wordpress.com/2012/12/31/smalltalk-links-news-and-resources-9/#comments" title="Comment on Smalltalk: Links, News And Resources&nbsp;(9)">Comments (3)</a>	</div>
+
+</div>
+
+
+
+<a href="http://ajlopez.wordpress.com/page/2/" >Older Posts &raquo;</a>
+<!-- begin footer -->
+</div>
+
+
+<!-- begin sidebar -->
+<div id="menu">
+
+<ul>
+<li id="categories-1" class="widget widget_categories"><h2 class="widgettitle">a</h2>
+<select name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="2427">.NET&nbsp;&nbsp;(170)</option>
+	<option class="level-0" value="12363087">Acquarella&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="35079904">Agents&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="21845">Agile Software Devevelopment&nbsp;&nbsp;(24)</option>
+	<option class="level-0" value="3918785">AjAgents&nbsp;&nbsp;(6)</option>
+	<option class="level-0" value="141">AJAX&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="81042777">AjBase&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="5090261">AjBasic&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="22501806">AjClipper&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="70821500">AjCoRe&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="29599164">AjCoreLisp&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="64106233">AjFabriq&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="2171816">AjGenesis&nbsp;&nbsp;(40)</option>
+	<option class="level-0" value="48441645">AjGroups&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="35337122">AjIo&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="9445144">AjLisp&nbsp;&nbsp;(14)</option>
+	<option class="level-0" value="84369318">AjLogo&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="2989925">AjMessages&nbsp;&nbsp;(6)</option>
+	<option class="level-0" value="59089522">AjModel&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="32239229">AjObjects&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="80535926">AjRools&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="29599165">AjScheme&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="64329616">AjScript&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="11498781">AjSharp&nbsp;&nbsp;(20)</option>
+	<option class="level-0" value="29599163">AjSharpure&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="12768376">AjTalk&nbsp;&nbsp;(21)</option>
+	<option class="level-0" value="3378">Algorithms&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="15857100">Alt.NET&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="12374">Artificial Intelligence&nbsp;&nbsp;(13)</option>
+	<option class="level-0" value="2425">ASP.NET&nbsp;&nbsp;(15)</option>
+	<option class="level-0" value="14210236">ASP.NET MVC&nbsp;&nbsp;(11)</option>
+	<option class="level-0" value="874083">Asynchronous&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="282669">Augmented Reality&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="335778">Azure&nbsp;&nbsp;(20)</option>
+	<option class="level-0" value="30589954">BasicScript&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="1365498">Behavior-Driven Development&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="178">Books&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="1136347">C Programming Language&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="14056">C Sharp&nbsp;&nbsp;(59)</option>
+	<option class="level-0" value="64829922">C Sharp 5&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="144912">Claims&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="5738990">Clojure&nbsp;&nbsp;(6)</option>
+	<option class="level-0" value="1715866">Cloud Computing&nbsp;&nbsp;(9)</option>
+	<option class="level-0" value="200618">COBOL&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="132766628">CobolScript&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="87035">Code Generation&nbsp;&nbsp;(46)</option>
+	<option class="level-0" value="258184">Code Kata&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="100030">Compilers&nbsp;&nbsp;(6)</option>
+	<option class="level-0" value="9890287">Computer Go&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="158259">Computer History&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="5043">Computer Science&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="214618">Concurrency&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="2206433">Concurrency and Coordination Runtime&nbsp;&nbsp;(11)</option>
+	<option class="level-0" value="13526291">Content Repository&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="27812368">CQRS&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="325481">Dart&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="7254509">Decentralized Software Services&nbsp;&nbsp;(8)</option>
+	<option class="level-0" value="101577">Distributed Computing&nbsp;&nbsp;(17)</option>
+	<option class="level-0" value="172804">Domain-Driven Design&nbsp;&nbsp;(8)</option>
+	<option class="level-0" value="955827">Domain-Specific Languages&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="1520412">Dynamic Language Runtime&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="1047186">Entity Framework&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="214614">Erlang&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="87946">Express&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="6012">F#&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="7196781">Federated Security&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="116486">Functional Programming&nbsp;&nbsp;(18)</option>
+	<option class="level-0" value="12157">Game Development&nbsp;&nbsp;(16)</option>
+	<option class="level-0" value="14852">Game Theory&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="445823">Genetic Algorithm&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="209196">Git&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="81">Google&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="7681">Grid Computing&nbsp;&nbsp;(13)</option>
+	<option class="level-0" value="37144">Haskell&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="196379">High Performance Computing&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="53242">HTML5&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="6133">Interface&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="1017">Java&nbsp;&nbsp;(19)</option>
+	<option class="level-0" value="457">JavaScript&nbsp;&nbsp;(67)</option>
+	<option class="level-0" value="203308">JQuery&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="72721">JSON&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="461295">JVM&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="1896000">Lambda Calculus&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="2200">Links&nbsp;&nbsp;(135)</option>
+	<option class="level-0" value="11457">Lisp&nbsp;&nbsp;(18)</option>
+	<option class="level-0" value="13184">Logo&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="52749559">Lwc2011&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="40978">Machine Learning&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="3859232">MapReduce&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="21895145">Mere Mortals Framework&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="36279">Metaprogramming&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="67514782">Metro Applications&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="7254518">Microsoft Robotics Developer Studio&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="120">Mobile&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="21954763">MongoDB&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="14247">Mono&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="4419">MySQL&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="103676">NHibernate&nbsp;&nbsp;(13)</option>
+	<option class="level-0" value="31896918">NodeJs&nbsp;&nbsp;(39)</option>
+	<option class="level-0" value="22319505">NoSQL&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="43782300">NuPack&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="2027657">OAuth&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="35529257">OAuth2&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="20106">Object Oriented Programming&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="210536">Open Source Projects&nbsp;&nbsp;(84)</option>
+	<option class="level-0" value="72243">Package Management&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="647643">Parallel Programming&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="5604">Patterns&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="458">PHP&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="17903">Presentations&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="196">Programming&nbsp;&nbsp;(20)</option>
+	<option class="level-0" value="13215">Programming Languages&nbsp;&nbsp;(135)</option>
+	<option class="level-0" value="135772925">Py2Script&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="832">Python&nbsp;&nbsp;(18)</option>
+	<option class="level-0" value="128561812">PythonSharp&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="7711051">QUnit&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="6652">Rails&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="5307557">Redis&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="15314">Rest&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="13426">Robotics&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="4872">Ruby&nbsp;&nbsp;(13)</option>
+	<option class="level-0" value="3601">Ruby on Rails&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="140418">Rule Engine&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="17927">saas&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="312256">Scala&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="157223">Scalability&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="46805">Scrum&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="115735218">SimpleBoard&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="135772959">SimpleChess&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="135772968">SimpleGo&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="135772937">SimpleMapReduce&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="25616263">SimpleScript&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="36458">Smalltalk&nbsp;&nbsp;(44)</option>
+	<option class="level-0" value="51214278">SocketIO&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="11412">Software Architecture&nbsp;&nbsp;(17)</option>
+	<option class="level-0" value="194471">Software as a Service&nbsp;&nbsp;(19)</option>
+	<option class="level-0" value="2301">Software Development&nbsp;&nbsp;(105)</option>
+	<option class="level-0" value="142835">Sqlite&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="78073">Test-Driven Development&nbsp;&nbsp;(36)</option>
+	<option class="level-0" value="40176">Turing&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="599182">Twitter&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="255">Ubuntu&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="1">Uncategorized&nbsp;&nbsp;(13)</option>
+	<option class="level-0" value="9203">Unix&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="412">Video&nbsp;&nbsp;(6)</option>
+	<option class="level-0" value="161488">Visual Basic .NET&nbsp;&nbsp;(6)</option>
+	<option class="level-0" value="2260">Web Development&nbsp;&nbsp;(11)</option>
+	<option class="level-0" value="214484">Web Server&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="4502980">Windows 8&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="147126">Windows Communication Foundation&nbsp;&nbsp;(8)</option>
+	<option class="level-0" value="147125">Windows Presentation Foundation&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="20062">Windows Workflow Foundation&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="59597472">WinRT&nbsp;&nbsp;(1)</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://ajlopez.wordpress.com/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+</script>
+
+</li>
+		<li id="delicious" class="widget widget_delicious">			<h2 class="widgettitle"><a href='http://del.icio.us/ajlopez'>Delicious</a></h2>
+<div id="delicious-box" style="margin:0;padding:0;border:none;"> </div>
+			<script type="text/javascript">
+				function render_delicious( data ) {
+					var ul = document.createElement( 'ul' );
+					for ( var i = 0, post; post = data[i]; i++ ) {
+						var li = document.createElement( 'li' );
+						var a  = document.createElement( 'a' );
+						a.setAttribute( 'href', post.u );
+						a.appendChild( document.createTextNode( post.d ) );
+						li.appendChild( a );
+						ul.appendChild( li );
+					}
+					ul.setAttribute( 'id', 'delicious-list' );
+					document.getElementById( 'delicious-box' ).appendChild( ul );
+				}
+			</script>
+			<script type="text/javascript" src="http://feeds.delicious.com/v2/json/ajlopez/saas%20codegeneration%20java%20dotnet?count=10&#038;callback=render_delicious"></script>
+		</li>
+<li id="meta-2" class="widget widget_meta"><h2 class="widgettitle">Meta</h2>
+			<ul>
+			<li><a href="http://ajlopez.wordpress.com/wp-login.php?action=register">Register</a></li>			<li><a href="http://ajlopez.wordpress.com/wp-login.php">Log in</a></li>
+			<li><a href="http://ajlopez.wordpress.com/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://ajlopez.wordpress.com/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.com/?ref=footer" rel="generator">Blog at WordPress.com</a>.</li>
+						</ul>
+</li>
+<li id="search-2" class="widget widget_search"><form role="search" method="get" id="searchform" action="http://ajlopez.wordpress.com/" >
+	<div><label class="screen-reader-text" for="s">Search for:</label>
+	<input type="text" value="" name="s" id="s" />
+	<input type="submit" id="searchsubmit" value="Search" />
+	</div>
+	</form></li>
+<li id="linkcat-1356" class="widget widget_links"><h2 class="widgettitle">Blogroll</h2>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.ajlopez.com" title="My Personal WebSite">ajlopez</a></li>
+<li><a href="http://staff.southworks.net/blogs/alejack">Alejandro Jack</a></li>
+<li><a href="http://weblogs.asp.net/aaguiar/">Andres Aguiar</a></li>
+<li><a href="http://staff.southworks.net/blogs/ariel">Ariel Schapiro</a></li>
+<li><a href="http://www.thearchitectexchange.com/asehmi/" title="Sehmi-Conscious Thoughts, Arvindra Sehmi&#8217;s Half-Baked Ideas and Digressions">Arvindra Sehmi</a></li>
+<li><a href="http://staff.southworks.net/blogs/aalvarez">Augusto Alvarez</a></li>
+<li><a href="http://brunocapuano.spaces.live.com/">Bruno Capuano</a></li>
+<li><a href="http://weblogs.asp.net/cazzu/">Daniel Cazzulino</a></li>
+<li><a href="http://blogs.msdn.com/davegreen">Dave Green</a></li>
+<li><a href="http://weblogs.asp.net/DGonzalez/">Diego Gonzalez</a></li>
+<li><a href="http://edjez.instedd.org/">Eduardo Jeziersky</a></li>
+<li><a href="http://blogs.msdn.com/eugeniop">Eugenio Pace</a></li>
+<li><a href="http://staff.southworks.net/ebella/">Ezequiel Bella</a></li>
+<li><a href="http://ejadib.wordpress.com/">Ezequiel Jadib</a></li>
+<li><a href="http://staff.southworks.net/blogs/ejadib/rss.aspx">Ezequiel Jadib</a></li>
+<li><a href="http://staff.southworks.net/blogs/ezequielm">Ezequiel Morito</a></li>
+<li><a href="http://blogs.msdn.com/fred_chong">Fred Chong</a></li>
+<li><a href="http://blogs.msdn.com/gianpaolo">Gianpaolo Carraro</a></li>
+<li><a href="http://blogs.msdn.com/juergenp">Jürgen Pfeifer</a></li>
+<li><a href="http://staff.southworks.net/johnny">Johnny Halife</a></li>
+<li><a href="http://staff.southworks.net/jony">Jonathan Menasches</a></li>
+<li><a href="http://staff.southworks.net/blogs/mariano">Mariano Szklanny</a></li>
+<li><a href="http://staff.southworks.net/blogs/matiaswoloski">Matias Woloski</a></li>
+<li><a href="http://staff.southworks.net/blogs/msaez">Miguel Angel Saez</a></li>
+<li><a href="http://tirania.org/blog">Miguel de Icaza</a></li>
+<li><a href="http://staff.southworks.net/blogs/lito">Pablo Damiani</a></li>
+<li><a href="http://blogs.msdn.com/tomholl/">Tom Hollander</a></li>
+<li><a href="http://wordpress.com/">WordPress.com</a></li>
+<li><a href="http://wordpress.org/">WordPress.org</a></li>
+<li><a href="http://www.zoomblog" title="Blogs in Spanish and English">Zoomblog</a></li>
+
+	</ul>
+</li>
+
+<li id="linkcat-87035" class="widget widget_links"><h2 class="widgettitle">Code Generation</h2>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.ajlopez.com/ajgenesis" title="My Code Generation Project">AjGenesis</a></li>
+<li><a href="http://www.codegeneration.net" title="Resources for the pragmatic programmer">Code Generation</a></li>
+
+	</ul>
+</li>
+
+<li id="linkcat-194471" class="widget widget_links"><h2 class="widgettitle">Software as a Service</h2>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://blogs.msdn.com/eugeniop">Eugenio Pace</a></li>
+<li><a href="http://blogs.msdn.com/fred_chong">Fred Chong</a></li>
+<li><a href="http://blogs.msdn.com/gianpaolo">Gianpaolo Carraro</a></li>
+
+	</ul>
+</li>
+
+<li id="tag_cloud" class="widget widget_tag_cloud"><h2 class="widgettitle">Category Cloud</h2>
+<div style='overflow: hidden'><a href='http://ajlopez.wordpress.com/category/net/' style='font-size: 275%; padding: 1px; margin: 1px;' title='.NET (170)'>.NET</a> <a href='http://ajlopez.wordpress.com/category/agile-software-devevelopment/' style='font-size: 112.26114649682%; padding: 1px; margin: 1px;' title='Agile Software Devevelopment (24)'>Agile Software Devevelopment</a> <a href='http://ajlopez.wordpress.com/category/ajgenesis/' style='font-size: 130.09554140127%; padding: 1px; margin: 1px;' title='AjGenesis (40)'>AjGenesis</a> <a href='http://ajlopez.wordpress.com/category/ajlisp/' style='font-size: 101.11464968153%; padding: 1px; margin: 1px;' title='AjLisp (14)'>AjLisp</a> <a href='http://ajlopez.wordpress.com/category/ajsharp/' style='font-size: 107.8025477707%; padding: 1px; margin: 1px;' title='AjSharp (20)'>AjSharp</a> <a href='http://ajlopez.wordpress.com/category/ajtalk/' style='font-size: 108.91719745223%; padding: 1px; margin: 1px;' title='AjTalk (21)'>AjTalk</a> <a href='http://ajlopez.wordpress.com/category/aspnet/' style='font-size: 102.22929936306%; padding: 1px; margin: 1px;' title='ASP.NET (15)'>ASP.NET</a> <a href='http://ajlopez.wordpress.com/category/azure/' style='font-size: 107.8025477707%; padding: 1px; margin: 1px;' title='Azure (20)'>Azure</a> <a href='http://ajlopez.wordpress.com/category/code-generation/' style='font-size: 136.78343949045%; padding: 1px; margin: 1px;' title='Code Generation (46)'>Code Generation</a> <a href='http://ajlopez.wordpress.com/category/c-sharp/' style='font-size: 151.27388535032%; padding: 1px; margin: 1px;' title='C Sharp (59)'>C Sharp</a> <a href='http://ajlopez.wordpress.com/category/distributed-computing/' style='font-size: 104.45859872611%; padding: 1px; margin: 1px;' title='Distributed Computing (17)'>Distributed Computing</a> <a href='http://ajlopez.wordpress.com/category/functional-programming/' style='font-size: 105.57324840764%; padding: 1px; margin: 1px;' title='Functional Programming (18)'>Functional Programming</a> <a href='http://ajlopez.wordpress.com/category/game-development/' style='font-size: 103.34394904459%; padding: 1px; margin: 1px;' title='Game Development (16)'>Game Development</a> <a href='http://ajlopez.wordpress.com/category/grid-computing/' style='font-size: 100%; padding: 1px; margin: 1px;' title='Grid Computing (13)'>Grid Computing</a> <a href='http://ajlopez.wordpress.com/category/java/' style='font-size: 106.68789808917%; padding: 1px; margin: 1px;' title='Java (19)'>Java</a> <a href='http://ajlopez.wordpress.com/category/javascript/' style='font-size: 159.07643312102%; padding: 1px; margin: 1px;' title='JavaScript (66)'>JavaScript</a> <a href='http://ajlopez.wordpress.com/category/links/' style='font-size: 235.9872611465%; padding: 1px; margin: 1px;' title='Links (135)'>Links</a> <a href='http://ajlopez.wordpress.com/category/lisp/' style='font-size: 105.57324840764%; padding: 1px; margin: 1px;' title='Lisp (18)'>Lisp</a> <a href='http://ajlopez.wordpress.com/category/nhibernate/' style='font-size: 100%; padding: 1px; margin: 1px;' title='NHibernate (13)'>NHibernate</a> <a href='http://ajlopez.wordpress.com/category/nodejs/' style='font-size: 127.86624203822%; padding: 1px; margin: 1px;' title='NodeJs (38)'>NodeJs</a> <a href='http://ajlopez.wordpress.com/category/open-source-projects/' style='font-size: 178.02547770701%; padding: 1px; margin: 1px;' title='Open Source Projects (83)'>Open Source Projects</a> <a href='http://ajlopez.wordpress.com/category/programming/' style='font-size: 107.8025477707%; padding: 1px; margin: 1px;' title='Programming (20)'>Programming</a> <a href='http://ajlopez.wordpress.com/category/programming-languages/' style='font-size: 235.9872611465%; padding: 1px; margin: 1px;' title='Programming Languages (135)'>Programming Languages</a> <a href='http://ajlopez.wordpress.com/category/python/' style='font-size: 105.57324840764%; padding: 1px; margin: 1px;' title='Python (18)'>Python</a> <a href='http://ajlopez.wordpress.com/category/smalltalk/' style='font-size: 134.55414012739%; padding: 1px; margin: 1px;' title='Smalltalk (44)'>Smalltalk</a> <a href='http://ajlopez.wordpress.com/category/software-architecture/' style='font-size: 104.45859872611%; padding: 1px; margin: 1px;' title='Software Architecture (17)'>Software Architecture</a> <a href='http://ajlopez.wordpress.com/category/software-as-a-service/' style='font-size: 106.68789808917%; padding: 1px; margin: 1px;' title='Software as a Service (19)'>Software as a Service</a> <a href='http://ajlopez.wordpress.com/category/software-development/' style='font-size: 202.54777070064%; padding: 1px; margin: 1px;' title='Software Development (105)'>Software Development</a> <a href='http://ajlopez.wordpress.com/category/test-driven-development/' style='font-size: 125.63694267516%; padding: 1px; margin: 1px;' title='Test-Driven Development (36)'>Test-Driven Development</a> <a href='http://ajlopez.wordpress.com/category/uncategorized/' style='font-size: 100%; padding: 1px; margin: 1px;' title='Uncategorized (13)'>Uncategorized</a> </div></li>
+<li id="calendar-2" class="widget widget_calendar"><div id="calendar_wrap"><table id="wp-calendar">
+	<caption>January 2013</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://ajlopez.wordpress.com/2012/12/" title="View posts for December 2012">&laquo; Dec</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr>
+		<td colspan="1" class="pad">&nbsp;</td><td>1</td><td><a href="http://ajlopez.wordpress.com/2013/01/02/" title="SimpleScript (1) First&nbsp;ideas">2</a></td><td>3</td><td>4</td><td>5</td><td><a href="http://ajlopez.wordpress.com/2013/01/06/" title="New Month&rsquo;s Resolutions: January&nbsp;2013">6</a></td>
+	</tr>
+	<tr>
+		<td>7</td><td><a href="http://ajlopez.wordpress.com/2013/01/08/" title="Python: Links, News And Resources&nbsp;(11)">8</a></td><td>9</td><td><a href="http://ajlopez.wordpress.com/2013/01/10/" title="Python: Links, News And Resources&nbsp;(12)">10</a></td><td><a href="http://ajlopez.wordpress.com/2013/01/11/" title="Smalltalk: Links, News And Resources&nbsp;(10)">11</a></td><td><a href="http://ajlopez.wordpress.com/2013/01/12/" title="Code Katas in JavaScript/Node.js using&nbsp;TDD">12</a></td><td>13</td>
+	</tr>
+	<tr>
+		<td>14</td><td>15</td><td><a href="http://ajlopez.wordpress.com/2013/01/16/" title="Some projects with in-memory&nbsp;model">16</a></td><td>17</td><td><a href="http://ajlopez.wordpress.com/2013/01/18/" title="Smalltalk: Links, News And Resources&nbsp;(11)">18</a></td><td id="today"><a href="http://ajlopez.wordpress.com/2013/01/19/" title="CobolScript (4) Web Pages with&nbsp;Templates">19</a></td><td>20</td>
+	</tr>
+	<tr>
+		<td>21</td><td>22</td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td>
+	</tr>
+	<tr>
+		<td>28</td><td>29</td><td>30</td><td>31</td>
+		<td class="pad" colspan="3">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></li>
+
+</ul>
+
+</div>
+
+
+<p class="credit">Theme: <a href="http://theme.wordpress.com/themes/blue-green/" title="Learn more about this theme">Shocking Blue Green</a>. <a href="http://wordpress.com/?ref=footer" rel="generator">Blog at WordPress.com</a>.</p>
+
+</div>
+
+
+<script type="text/javascript">
+var _qevents = _qevents || [], wpcomQuantcastData = {"qacct":"p-18-mFEk4J448M","labels":",language.en,type.wpcom"};
+function wpcomQuantcastPixel( labels, options ) {
+	var i, defaults = wpcomQuantcastData, data = { event: 'ajax' };
+
+	labels  = labels  || '';
+	options = options || {};
+
+	if ( typeof labels != 'string' )
+		options = labels;
+
+	for ( i in defaults ) {
+		data[i] = defaults[i];
+	}
+
+	for ( i in options ) {
+		data[i] = options[i];
+	}
+
+	if ( data.labels ) {
+		data.labels += ',' + labels;
+	} else {
+		data.labels = labels;
+	}
+
+	_qevents.push( data );
+};
+(function() {var elem = document.createElement('script');elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";elem.async = true;elem.type = "text/javascript";var scpt = document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem, scpt);  })();
+_qevents.push( wpcomQuantcastData );
+</script>
+<noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif?labels=%2Clanguage.en%2Ctype.wpcom" height="1" width="1" alt="" /></div></noscript>
+
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201303ab'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1351637563g'></script>
+<script>jQuery(document).ready(function($){ Gravatar.profile_cb = function( h, d ) { WPGroHo.syncProfileData( h, d );	}; Gravatar.my_hash = WPGroHo.my_hash; Gravatar.init( 'body', '#wp-admin-bar-my-account' ); });</script>	<div style="display:none">
+	</div>
+
+	<div id="bit" class="loggedout-follow-normal">
+		<a class="bsub" href="javascript:void(0)"><span id='bsub-text'>Follow</span></a>
+		<div id="bitsubscribe">
+
+					<h3><label for="loggedout-follow-field">Follow &ldquo;Angel \"Java\" Lopez on Blog&rdquo;</label></h3>
+
+			<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="loggedout-follow">
+			<p>Get every new post delivered to your Inbox.</p>
+
+			<p id="loggedout-follow-error" style="display: none;"></p>
+
+			
+			<p><input type="email" name="email" style="width: 95%; padding: 1px 2px" value="Enter your email address" onfocus='this.value=(this.value=="Enter your email address") ? "" : this.value;' onblur='this.value=(this.value=="") ? "Enter email address" : this.value;'  id="loggedout-follow-field"/></p>
+
+			<input type="hidden" name="action" value="subscribe"/>
+			<input type="hidden" name="blog_id" value="378226"/>
+			<input type="hidden" name="source" value="http://ajlopez.wordpress.com/"/>
+			<input type="hidden" name="sub-type" value="loggedout-follow"/>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="b50f9942e3" /><input type="hidden" name="_wp_http_referer" value="/" />
+			<p id='bsub-subscribe-button'><input type="submit" value="Sign me up" /></p>
+			</form>
+					<div id='bsub-credit'><a href="http://wordpress.com/signup/?ref=lof">Powered by WordPress.com</a></div>
+		</div><!-- #bitsubscribe -->
+	</div><!-- #bit -->
+
+	<script type="text/javascript">
+	  var vglnk = { api_url: "//api.viglink.com/api",
+	                key: "cdee124b11d6baacda6c3e29b12e23dc" };	 
+	  (function(d, t) {
+	    var s = d.createElement(t); s.type = "text/javascript"; s.async = true;
+	    s.src = ("https:" == document.location.protocol ? vglnk.api_url :
+	             "//cdn.viglink.com/api") + "/vglnk.js";
+	    var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
+	  }(document, "script"));
+	</script>
+	<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx.js?m=1354656609g'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="http://s.stats.wordpress.com/w.js?21" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'378226','v':'wpcom','tz':'0','user_id':'0','subd':'ajlopez'});
+ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1oV0pFNEwueXFaVXlyMGwvVG9YR3dTN2g5d1tCUXIrK3xbSXpCSUlQWWVpN1pfNEFkekxMLD1Sd3N3b3dqeV9LTnNiJl81cnd1aUt0LVdROHN+MnRCaXNdLmNuRHp2dGNUOEJUTHNtRS5ndzV6NmpxUnM/VEZDJVtFRVVkVi5XZUgtWEZfNU1pPXVaK34tbHpXLDFWUS1MLlt5P3lraDJ8LjE2OXUrUzFWSC4tWy52fjZSUzZbJXMxNS9PSmdMQUh5VlJqbkVDTy1LMXJyUS1ddC5WYmtGcjkmc2FkbEJKS25YQzFvMz1GUndbZGJSVjdFVGNiLHxXLF9pTGg1diVnOCY0TzZ0K1lFOXhERnRWb0w='});
+addLoadEvent(function(){linktracker_init('378226',0);});
+	</script>
+<noscript><img src="http://stats.wordpress.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script type="text/javascript">
+	// Trigger Quantcast pixel for each Infinite Scroll post load
+	if ( 'function' === typeof( jQuery ) ) {
+		jQuery( document.body ).on( 'post-load', function() {
+			if ( 'function' === typeof( wpcomQuantcastPixel ) )
+				wpcomQuantcastPixel();
+		} );
+	}
+</script>
+</body>
+</html>
