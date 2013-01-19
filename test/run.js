@@ -20,7 +20,7 @@ exports['define and simple run with two steps'] = function (test) {
 
     processor.use(incmsg)
         .use(incmsg)
-        .use(function (message) { test.equal(3, message); test.done() });
+        .use(function (message) { test.equal(3, message); test.done(); });
 
     processor.run(1);
 };
@@ -40,7 +40,7 @@ exports['context post for loop'] = function (test) {
     }
 
     processor.use(incmsg)    
-        .use(function (message) { test.equal(3, message); test.done() });
+        .use(function (message) { test.equal(3, message); test.done(); });
 
-    processor.runSync(1);
+    processor.run(1);
 };
