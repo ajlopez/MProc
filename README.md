@@ -11,7 +11,6 @@ Via npm on Node:
 npm install mproc
 ```
 
-
 ## Usage
 
 Reference in your program:
@@ -80,7 +79,7 @@ npm test
 ## Samples
 
 - [Collatz](https://github.com/ajlopez/MProc/tree/master/samples/collatz) Collatz problem sample.
-- [Web Crawler](https://github.com/ajlopez/MProc/tree/master/samples/collatz) Simple Web Crawler.
+- [Web Crawler](https://github.com/ajlopez/MProc/tree/master/samples/webcrawler) Simple Web Crawler.
 
 ## To do
 
