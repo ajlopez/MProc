@@ -2,7 +2,7 @@
 var mproc = require('..');
 
 exports['define and simple run'] = function (test) {
-    test.expect(1);
+    test.async();
     var processor = mproc.createProcessor();
 
     processor.use(function (message, context, next) { message++; next(null, message); })    
@@ -12,7 +12,7 @@ exports['define and simple run'] = function (test) {
 };
 
 exports['define and simple run with two steps'] = function (test) {
-    test.expect(3);
+    test.async();
 
     var processor = mproc.createProcessor();
 
@@ -26,7 +26,7 @@ exports['define and simple run with two steps'] = function (test) {
 };
 
 exports['context post for loop'] = function (test) {
-    test.expect(3);
+    test.async();
 
     var processor = mproc.createProcessor();
 

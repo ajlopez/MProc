@@ -17,6 +17,8 @@ exports['define and sync simple run'] = function (test) {
 };
 
 exports['define and sync simple run with two steps'] = function (test) {
+    test.async();
+    
     var processor = mproc.createProcessor();
 
     function incmsg(message, context, next) { message++; next(null, message); }
