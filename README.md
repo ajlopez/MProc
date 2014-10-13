@@ -32,6 +32,16 @@ Each message processor is a function that receives two parameters:
 - `next`: A function that receives two parameters `err`, `message`. It executes the next step 
 in the message processor chain.
 
+You can define a processor with a `fail` error function:
+```js
+var processor = mproc.createProcessor()
+    .use(function (msg, next) { ... })
+    .use(function (msg, next) { ... })
+    .fail(function (err) { ... })
+```
+The supplied fail function will be invoked if any `next` function call receives a non-null first argument, or if
+the middleware function raise an exception.
+
 To send a message to a processor:
 ```js
 processor.run(message);

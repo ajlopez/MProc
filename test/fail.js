@@ -27,3 +27,14 @@ exports['next with err using fail'] = function (test) {
         
     processor.run(1);
 };
+exports['step thowing exception'] = function (test) {
+    var processor = mproc.createProcessor();
+
+    processor.use(function (message, next) { throw 'error'; })
+        .fail(function (err) {
+            test.ok(err);
+            test.equal(err, 'error');
+        });
+        
+    processor.run(1);
+};
