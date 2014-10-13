@@ -21,15 +21,6 @@ exports['define and simple run using the same message in next'] = function (test
     processor.run({ counter: 1 });
 };
 
-exports['define and simple runSync using the same message in next'] = function (test) {
-    var processor = mproc.createProcessor();
-
-    processor.use(function (message, next) { message.counter++; next(); })    
-        .use(function (message) { test.ok(message); test.equal(2, message.counter); test.done() });
-
-    processor.runSync({ counter: 1 });
-};
-
 exports['define and simple run with two steps'] = function (test) {
     test.async();
 

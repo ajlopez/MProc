@@ -13,7 +13,7 @@ exports['define and sync simple run'] = function (test) {
     processor.use(function (message, next) { message++; next(null, message); })
         .use(function (message) { test.equal(2, message); test.done() });
 
-    processor.runSync(1);
+    processor.run(1);
 };
 
 exports['define and sync simple run with two steps'] = function (test) {
@@ -27,10 +27,12 @@ exports['define and sync simple run with two steps'] = function (test) {
         .use(incmsg)
         .use(function (message) { test.equal(3, message); test.done() });
 
-    processor.runSync(1);
+    processor.run(1);
 };
 
 exports['context send for loop'] = function (test) {
+    test.async();
+    
     var processor = mproc.createProcessor();
 
     function incmsg(message, next, context) { 
@@ -39,13 +41,13 @@ exports['context send for loop'] = function (test) {
         if (message == 3)
             next(null, message);
         else
-            context.send(message);
+            context.post(message);
     }
 
     processor.use(incmsg)
         .use(function (message) { test.equal(3, message); test.done() });
 
-    processor.runSync(1);
+    processor.run(1);
 };
 
 exports['createProcessor with arguments'] = function (test) {
@@ -54,11 +56,13 @@ exports['createProcessor with arguments'] = function (test) {
 
     var processor = mproc.createProcessor(incmsg, incmsg, done);
 
-    processor.runSync(1);
+    processor.run(1);
 };
 
 exports['name'] = function (test) {
-    function send(message, next, context) { context.send(message, 'done'); next(null, message); }
+    test.async();
+    
+    function send(message, next, context) { context.post(message, 'done'); next(null, message); }
     function incmsg(message, next) { message++; next(null, message); }
     function done(message) { test.equal(1, message); test.done(); }
 
@@ -70,15 +74,17 @@ exports['name'] = function (test) {
         .name("done")
         .use(done);
 
-    processor.runSync(1);
+    processor.run(1);
 };
 
 exports['name in createProcessor arguments'] = function (test) {
-    function send(message, next, context) { context.send(message, 'done'); next(null, message); }
+    test.async();
+    
+    function send(message, next, context) { context.post(message, 'done'); next(null, message); }
     function incmsg(message, next) { message++; next(null, message); }
     function done(message) { test.equal(1, message); test.done(); }
 
     var processor = mproc.createProcessor(send, incmsg, incmsg, "done", done);
 
-    processor.runSync(1);
+    processor.run(1);
 };
