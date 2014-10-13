@@ -23,49 +23,47 @@ Create a message processor, and build a chain of message processors
 
 ```js
 var processor = mproc.createProcessor();
-processor.use(function (message, context, next) { message++; next(null, message); })
-    .use(function (message, context, next) { console.dir(message); })
+processor.use(function (message, next) { message++; next(null, message); })
+    .use(function (message, next) { console.dir(message); })
 ```
 
-Each message processor is a function that receives three parameters:
+Each message processor is a function that receives two parameters:
 - `message`: A simple JavaScript object
-- `context`: An auxiliary object with some utitility functions
 - `next`: A function that receives two parameters `err`, `message`. It executes the next step 
 in the message processor chain.
 
-To send a message and processing it a synchronous way:
-
+To send a message to a processor:
 ```js
-processor.send(1);
+processor.run(message);
 ```
-Synchronous means that first step is inmediately executed and if it calls its next function, it is executed inmediately too.
 
-To send a message and processing it an asynchronous way:
-```js
-processor.post(1);
-```
-Each step in the processor is not executed inmediately, but it will be executed in the next Node loop tick.
-
-Note: each function in the chain can have asynchronous processing or not. The above discussion is about the
-invocation of each step, not about their inner behavior.
+Note: each function in the chain can have asynchronous processing or not, then it can invoke the `next` or not.
 
 Usually, each step/function in the message processor chain, calls the next function with the same message. But they
 can enrich/transform the message, or give another message to the next function.
 
-An step/function could send new messages to the processor, using the context:
+To give the same message (maybe enriched or transformed), you can call:
 ```js
-function numbers(messsage, context, next) {
+next();
+```
+without arguments. If you want to send a NEW message to the next steps, use:
+```js
+next(null, newmessage);
+```
+
+Sometimes, you want to send new message to the same processor. In those cases, the step function can be defined with
+a third parameter, the `context`, an auxiliary object with a function `post`:
+```js
+function numbers(messsage, next, context) {
     for (var k = 1; k < message.counter; k++)
         context.post({ counter: k });
 }
 ```
-`context.post` function processes the new message in asynchronous way. You can use `context.send` to send a message to
-be synchronous processed.
+`context.post` function processes the new message in the next tick.
 
 See the Web Crawler sample for an example of using `context.post` to produce multiple message in one step.
 
-See [Collatz sample](https://github.com/ajlopez/MProc/tree/master/samples/collatz) for an example using `context.post`, 
-`context.send` to have a loop in the message process.
+See [Collatz sample](https://github.com/ajlopez/MProc/tree/master/samples/collatz) for an example using `context.post` to have a loop in the message process.
 
 ## Development
 
