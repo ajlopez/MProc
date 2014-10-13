@@ -7,7 +7,7 @@ function resolver(link) {
     var hostname = url.parse(link).hostname;
     var visited = {};
 
-    return function (message, context, next) {
+    return function (message, next) {
         var urldata = url.parse(message);
 
         if (urldata.hostname !== hostname)
@@ -18,11 +18,11 @@ function resolver(link) {
 
         visited[message] = true;
 
-        next(null, message);
+        next();
     };
 }
 
-function download(message, context, next) {
+function download(message, next) {
     var urldata = url.parse(message);
 
     options = {
@@ -52,7 +52,7 @@ function download(message, context, next) {
         });
 }
 
-function harvest(message, context, next) {
+function harvest(message, next, context) {
     var match1 = /href=\s*"([^&"]*)"/ig;
     var match2= /href=\s*'([^&']*)'/ig;
 
