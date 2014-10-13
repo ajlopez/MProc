@@ -10,7 +10,7 @@ exports['createProcessor defined'] = function (test) {
 exports['define and sync simple run'] = function (test) {
     var processor = mproc.createProcessor();
 
-    processor.use(function (message, context, next) { message++; next(null, message); })
+    processor.use(function (message, next) { message++; next(null, message); })
         .use(function (message) { test.equal(2, message); test.done() });
 
     processor.runSync(1);
@@ -21,7 +21,7 @@ exports['define and sync simple run with two steps'] = function (test) {
     
     var processor = mproc.createProcessor();
 
-    function incmsg(message, context, next) { message++; next(null, message); }
+    function incmsg(message, next) { message++; next(null, message); }
 
     processor.use(incmsg)
         .use(incmsg)
@@ -33,7 +33,7 @@ exports['define and sync simple run with two steps'] = function (test) {
 exports['context send for loop'] = function (test) {
     var processor = mproc.createProcessor();
 
-    function incmsg(message, context, next) { 
+    function incmsg(message, next, context) { 
         test.ok(message > 0); 
         message++; 
         if (message == 3)
@@ -49,7 +49,7 @@ exports['context send for loop'] = function (test) {
 };
 
 exports['createProcessor with arguments'] = function (test) {
-    function incmsg(message, context, next) { message++; next(null, message); }
+    function incmsg(message, next) { message++; next(null, message); }
     function done(message) { test.equal(3, message); test.done(); }
 
     var processor = mproc.createProcessor(incmsg, incmsg, done);
@@ -58,8 +58,8 @@ exports['createProcessor with arguments'] = function (test) {
 };
 
 exports['name'] = function (test) {
-    function send(message, context, next) { context.send(message, 'done'); next(null, message); }
-    function incmsg(message, context, next) { message++; next(null, message); }
+    function send(message, next, context) { context.send(message, 'done'); next(null, message); }
+    function incmsg(message, next) { message++; next(null, message); }
     function done(message) { test.equal(1, message); test.done(); }
 
     var processor = mproc.createProcessor();
@@ -74,8 +74,8 @@ exports['name'] = function (test) {
 };
 
 exports['name in createProcessor arguments'] = function (test) {
-    function send(message, context, next) { context.send(message, 'done'); next(null, message); }
-    function incmsg(message, context, next) { message++; next(null, message); }
+    function send(message, next, context) { context.send(message, 'done'); next(null, message); }
+    function incmsg(message, next) { message++; next(null, message); }
     function done(message) { test.equal(1, message); test.done(); }
 
     var processor = mproc.createProcessor(send, incmsg, incmsg, "done", done);
