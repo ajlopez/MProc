@@ -3,21 +3,21 @@ var mproc = require('../..');
 
 var processor = mproc.createProcessor();
 
-processor.use(function (message, context, next) {
+processor.use(function (message, next) {
         if (message[0] === 1)
             console.dir(message);
         else
-            next(null, message);
+            next();
     })
-    .use(function (message, context, next) {
+    .use(function (message, next) {
         var val = message[0];
         
         if (val % 2 === 0)
             message.unshift(val / 2);
 
-        next(null, message);
+        next();
     })
-    .use(function (message, context, next) {
+    .use(function (message, next, context) {
         var val = message[0];
         
         if (val !== 1 && val % 2 !== 0)
